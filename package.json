@@ -1,0 +1,1 @@
+{"name":"ai-curated-insights","private":true,"type":"module","scripts":{"start":"node src/index.js","test":"node --test"},"dependencies":{"openai":"^4.104.0"}}
