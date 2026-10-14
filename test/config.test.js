@@ -1,0 +1,1 @@
+import test from 'node:test';import assert from 'node:assert/strict';test('publishing disabled by default',()=>assert.notEqual(process.env.PUBLISH_ENABLED,'true'));
