@@ -1,0 +1,46 @@
+{
+  "updated_at": "2026-10-18",
+  "category": "developer_offers",
+  "policy": "Treat promotional offers separately from AI longreads. Verify active offer and checkout price before publication; do not assume evergreen validity.",
+  "sources": [
+    {
+      "name": "Hacktoberfest",
+      "url": "https://hacktoberfest.com/",
+      "type": "official",
+      "monitor": "promotions"
+    },
+    {
+      "name": "DEV Community Hacktoberfest",
+      "url": "https://dev.to/challenges/hacktoberfest-weekend-2026-10-01",
+      "type": "event_announcement"
+    },
+    {
+      "name": "Get.tech",
+      "url": "https://get.tech/",
+      "type": "merchant",
+      "monitor": "manual terms verification; do not scrape checkout"
+    },
+    {
+      "name": "iTerm Perks",
+      "url": "https://iterm.today/en/offer/get-tech-free-domain-1-year-code/",
+      "type": "independent_redemption_report"
+    },
+    {
+      "name": "Revesery",
+      "url": "https://www.store.revesery.com/blog/cara-klaim-domain-tech-gratis-1-tahun-kode-hacktoberfest",
+      "type": "independent_guide"
+    }
+  ],
+  "offers": [
+    {
+      "id": "get-tech-hacktoberfest-2026",
+      "code": "hacktoberfestd0b8o5",
+      "first_year": "$0 if coupon accepted",
+      "renewal": "Variable; $29.99/year in one verified checkout",
+      "verified_on": "2026-10-18",
+      "status": "manual_review",
+      "publish": false,
+      "notes": "Card required; confirm $0 total; check renewal and auto-renew settings."
+    }
+  ]
+}
