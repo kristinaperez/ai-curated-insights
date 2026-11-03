@@ -1,0 +1,2580 @@
+{
+ "channel": "Интеллигенция (intelligentsia_ch)",
+ "exported_at_source": "Telegram Desktop export, messages.html",
+ "built_on": "2026-11-03",
+ "count": 161,
+ "posts": [
+  {
+   "post_id": "4",
+   "date": "10.06.2026",
+   "content_type": "promo_or_tips",
+   "snippet": "Добро пожаловать  Собрал для тебя самые важные штуки про ИИ.  Разборы, гайды, мои мнения и прочее.   Чего тут не будет: Нудных лекций, платных курсов «как стать",
+   "sources_in_export": [
+    {
+     "url": "https://slack.com/",
+     "domain": "slack.com",
+     "kind": "other"
+    }
+   ],
+   "referral_or_promo_links": [
+    "https://app.viktor.com/signin?ref=F5dY9TCGcqEXi7drQ7sRdq"
+   ],
+   "telegram_links": [],
+   "web_verification": null
+  },
+  {
+   "post_id": "5",
+   "date": "11.06.2026",
+   "content_type": "promo_or_tips",
+   "snippet": "Пытаюсь находить бесплатные / почти бесплатные способы работы с нейросетями    Халявные $10 на баланс для работы с Claude и OpenAI  Тут площадка FreeModel разда",
+   "sources_in_export": [],
+   "referral_or_promo_links": [
+    "https://freemodel.dev/invite/FRE-2ecc8104"
+   ],
+   "telegram_links": [],
+   "web_verification": null
+  },
+  {
+   "post_id": "6",
+   "date": "12.06.2026",
+   "content_type": "promo_or_tips",
+   "snippet": "Универсальный промт для генераций    Ultra-realistic minimalist character reference sheet on a pure white background, styled like a professional fashion photogr",
+   "sources_in_export": [],
+   "referral_or_promo_links": [],
+   "telegram_links": [],
+   "web_verification": null
+  },
+  {
+   "post_id": "8",
+   "date": "13.06.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "Кажется, большая политика окончательно добралась до нашего уютного цифрового пространства, причем в довольно грубой форме. Ладно когда Трамп щитками скамил люде",
+   "sources_in_export": [
+    {
+     "url": "https://www.anthropic.com/news/fable-mythos-access",
+     "domain": "anthropic.com",
+     "kind": "official"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [],
+   "web_verification": {
+    "status": "verified_web",
+    "note": "Запрет использования Fable 5 за пределами США подтверждён; ссылка на anthropic.com уже есть в экспорте",
+    "sources": [
+     "https://bleepingcomputer.com/news/security/us-gov-asks-anthropic-to-ban-foreign-national-access-to-fable-mythos/"
+    ]
+   }
+  },
+  {
+   "post_id": "10",
+   "date": "14.06.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "Как пользоваться CapCut бесплатно — единственный рабочий метод на данный момент (Windows/PC)   Если хочешь редактировать видео с автосубтитрами, эффектами и все",
+   "sources_in_export": [
+    {
+     "url": "https://capcut.en.uptodown.com/windows/download/1124018008#versions",
+     "domain": "capcut.en.uptodown.com",
+     "kind": "other"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [],
+   "web_verification": null
+  },
+  {
+   "post_id": "11",
+   "date": "14.06.2026",
+   "content_type": "promo_or_tips",
+   "snippet": "Актуальные способы:  Один из самых любимых и супер хороший, это старый добрый ноушн  Можно кодить но нужно через гит подключать 30 дней триала linear  Самый жир",
+   "sources_in_export": [],
+   "referral_or_promo_links": [
+    "https://2nd-no.com",
+    "https://grizzlysms.com/?r=406336",
+    "https://temp-mail.org/ru/",
+    "https://www.temptom.com/ru/",
+    "https://mail.tm/",
+    "https://chkr.cc/"
+   ],
+   "telegram_links": [
+    "https://t.me/intelligentsia_ch/15",
+    "https://t.me/intelligentsia_ch/63",
+    "https://t.me/intelligentsia_ch/89",
+    "https://t.me/GrdSMSbot?start=_tgr_C2oW2FgwMjUy"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "12",
+   "date": "15.06.2026",
+   "content_type": "promo_or_tips",
+   "snippet": "вот такие стоимости на одну из лучших китайских моделей в гонке, ничего дешевле и удобнее того что можно подключить к гермесу вы не найдет (может найдете). ну и",
+   "sources_in_export": [],
+   "referral_or_promo_links": [
+    "https://proxy.gonka.gg/register?ref=chronovox&amp;utm_source=partner&amp;utm_medium=referral&amp;utm_campaign=chronovox"
+   ],
+   "telegram_links": [],
+   "web_verification": null
+  },
+  {
+   "post_id": "13",
+   "date": "16.06.2026",
+   "content_type": "promo_or_tips",
+   "snippet": "Так назрел вопрос, как оплачивать ChatGPT и другие зарубежные нейронки Я пытался найти карту где будет верификация по российским документам очень долго, но все ",
+   "sources_in_export": [],
+   "referral_or_promo_links": [
+    "https://www.pionex.com/ru",
+    "https://accounts.pionex.com/ru/signUp?r=0qgvyKF8c7a",
+    "https://2nd-no.com"
+   ],
+   "telegram_links": [],
+   "web_verification": null
+  },
+  {
+   "post_id": "15",
+   "date": "17.06.2026",
+   "content_type": "promo_or_tips",
+   "snippet": "Гайд как использовать OPUS 4.8 бесплатно Доступ в чате ноушена, вы НЕ сможете его по апи прикрутить к своим проектам или писать код  🖱 ИНСТРУКЦИЯ:  1. Идем в но",
+   "sources_in_export": [
+    {
+     "url": "https://www.notion.com/explore",
+     "domain": "notion.com",
+     "kind": "official"
+    }
+   ],
+   "referral_or_promo_links": [
+    "https://chkr.cc/",
+    "https://www.fakeaddressgenerator.com/"
+   ],
+   "telegram_links": [],
+   "web_verification": null
+  },
+  {
+   "post_id": "16",
+   "date": "18.06.2026",
+   "content_type": "promo_or_tips",
+   "snippet": "Принес вам еще 14 суток бесплатного доступа к нашим топ моделям !!!   Способ с виктором который закреплен порезали и теперь нужно привязывать карту и дают не 50",
+   "sources_in_export": [],
+   "referral_or_promo_links": [
+    "https://dust.tt/",
+    "https://dustmail.net/"
+   ],
+   "telegram_links": [
+    "https://t.me/chronovoxtg/11"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "20",
+   "date": "20.06.2026",
+   "content_type": "promo_or_tips",
+   "snippet": "Есть популярное заблуждение: если оплатить подписки на Claude Code, Gemini, Higgsfield, ElevenLabs и еще пару сервисов, то можно будет бесконечно кодить, генери",
+   "sources_in_export": [],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/intelligentsia_ch/15"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "21",
+   "date": "20.06.2026",
+   "content_type": "no_source_in_export",
+   "snippet": "Когда хиггсфилд дал безлимит, но не дал доступ с MCP. Написал скрипт, чтобы ручками не вставлять промты            ❤      1",
+   "sources_in_export": [],
+   "referral_or_promo_links": [],
+   "telegram_links": [],
+   "web_verification": null
+  },
+  {
+   "post_id": "22",
+   "date": "21.06.2026",
+   "content_type": "promo_or_tips",
+   "snippet": "Тут сервис по генерации видео oiioii раздает по 200 токенов на акк и по 60 еще можно клеймить каждый день Способ регистрации самый простой из тех которые вы вст",
+   "sources_in_export": [],
+   "referral_or_promo_links": [
+    "https://www.oiioii.ai"
+   ],
+   "telegram_links": [],
+   "web_verification": null
+  },
+  {
+   "post_id": "23",
+   "date": "21.06.2026",
+   "content_type": "promo_or_tips",
+   "snippet": "Еще пользы подвезли   Регаемся на сайте , можно через одноразовые почты, я сделал на свой гугл  Выбираем тариф Pro на мес, промо BCFREE  3. Идем вот сюда https:",
+   "sources_in_export": [],
+   "referral_or_promo_links": [
+    "https://www.getmerlin.in/",
+    "https://chkr.cc/"
+   ],
+   "telegram_links": [],
+   "web_verification": null
+  },
+  {
+   "post_id": "24",
+   "date": "22.06.2026",
+   "content_type": "promo_or_tips",
+   "snippet": "Я сделал бота, который собирает карусели для Threads прямо с телефона   @yourkarusel_bot   И веб-версия https://yourkarusel.pages.dev/   Выбираешь тему, текст и",
+   "sources_in_export": [],
+   "referral_or_promo_links": [
+    "https://yourkarusel.pages.dev/"
+   ],
+   "telegram_links": [
+    "https://t.me/yourkarusel_bot"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "27",
+   "date": "22.06.2026",
+   "content_type": "promo_or_tips",
+   "snippet": "Приложение проверяет, есть ли на фото реально живой кот. то есть нельзя кинуть картинку из интернета или скриншот, чтобы обмануть. приходится идти и по-настояще",
+   "sources_in_export": [],
+   "referral_or_promo_links": [
+    "https://www.catchcat.lol"
+   ],
+   "telegram_links": [],
+   "web_verification": null
+  },
+  {
+   "post_id": "28",
+   "date": "22.06.2026",
+   "content_type": "promo_or_tips",
+   "snippet": "Кто-то навайбкодил кота и он теперь живет на вашем рабочем столе. и да это самое классное, что вы видели от вайбкода.  Приложения называется Comnyang.  Крошечны",
+   "sources_in_export": [],
+   "referral_or_promo_links": [
+    "https://www.comnyang.com/"
+   ],
+   "telegram_links": [],
+   "web_verification": null
+  },
+  {
+   "post_id": "29",
+   "date": "23.06.2026",
+   "content_type": "promo_or_tips",
+   "snippet": "Не знаю насколько правда, что его навайбкодили, а не написала команда разработчиков. Но история трогательная.   «Все началось с простой прогулки. Разработчик Эй",
+   "sources_in_export": [
+    {
+     "url": "https://apps.apple.com/de/app/capwords-ai-photo-vocabulary/id6738896465",
+     "domain": "apps.apple.com",
+     "kind": "official"
+    }
+   ],
+   "referral_or_promo_links": [
+    "https://capwords.app/"
+   ],
+   "telegram_links": [],
+   "web_verification": null
+  },
+  {
+   "post_id": "33",
+   "date": "23.06.2026",
+   "content_type": "promo_or_tips",
+   "snippet": "Если вам для ролика нужна музыка и нужны коммерческие права на нее и у вас нет подписки PRO на SUNO нашел сервис который приятнее и делает прям рили не хуже, вс",
+   "sources_in_export": [],
+   "referral_or_promo_links": [
+    "https://www.flowmusic.app"
+   ],
+   "telegram_links": [],
+   "web_verification": null
+  },
+  {
+   "post_id": "34",
+   "date": "24.06.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "Как бесплатно генерировать видео забираем 2.000.000 токенов в Seedance  все предтоповые модели  Нашли отличный рабочий способ. Разработчики немного спрятали бес",
+   "sources_in_export": [
+    {
+     "url": "https://www.byteplus.com/en",
+     "domain": "byteplus.com",
+     "kind": "official"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [],
+   "web_verification": null
+  },
+  {
+   "post_id": "36",
+   "date": "24.06.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "Удивительный пример вайбкода, как парень увидел в комментах, что все просят приложение на айфон за день адаптировал его и вот уже приложение для коллекционирова",
+   "sources_in_export": [
+    {
+     "url": "https://apps.apple.com/de/app/cat-me-if-u-can/id6782892148",
+     "domain": "apps.apple.com",
+     "kind": "official"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [],
+   "web_verification": null
+  },
+  {
+   "post_id": "49",
+   "date": "28.06.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "Помнишь Red Alert? Тот самый  Есть проект OpenRA энтузиасты 16 лет переписывали движок с нуля.  Вчера он залетел на Hacker News — 619 очков, топ 5.  Почему это ",
+   "sources_in_export": [
+    {
+     "url": "https://www.openra.net/",
+     "domain": "openra.net",
+     "kind": "official"
+    },
+    {
+     "url": "https://news.ycombinator.com/item?id=48697560",
+     "domain": "news.ycombinator.com",
+     "kind": "social_post"
+    },
+    {
+     "url": "https://www.openra.net/download/",
+     "domain": "openra.net",
+     "kind": "official"
+    },
+    {
+     "url": "https://github.com/OpenRA/OpenRA",
+     "domain": "github.com",
+     "kind": "official"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [],
+   "web_verification": null
+  },
+  {
+   "post_id": "50",
+   "date": "28.06.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "Первый AI-сериал и полнометражный фильм - уже вышли. «Hell Grind» - 22 минуты, целиком сгенерировано нейросетями Higgsfield AI . Четыре беспризорника, древний а",
+   "sources_in_export": [
+    {
+     "url": "https://youtu.be/digHr6k38x0",
+     "domain": "youtu.be",
+     "kind": "official"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [],
+   "web_verification": null
+  },
+  {
+   "post_id": "51",
+   "date": "30.06.2026",
+   "content_type": "no_source_in_export",
+   "snippet": "WhatsApp добавили юзернеймы !   Функция сейчас доступна не для всех, а в порядке очереди.  Первыми можно попробовать урвать хороший или забрать свой. Лучше быст",
+   "sources_in_export": [],
+   "referral_or_promo_links": [],
+   "telegram_links": [],
+   "web_verification": null
+  },
+  {
+   "post_id": "52",
+   "date": "30.06.2026",
+   "content_type": "promo_or_tips",
+   "snippet": "БЕСПЛАТНАЯ ГЕНЕРАЦИЯ В SEEDANCE 2.0  Платформа называется Digien AI (все топ модели: Sora 2, Veo и Seedance)  Как получить доступ и использовать бесконечно:  1.",
+   "sources_in_export": [],
+   "referral_or_promo_links": [
+    "https://digien.ai/",
+    "https://temp-mail.org/ru/",
+    "https://www.temptom.com/ru/"
+   ],
+   "telegram_links": [],
+   "web_verification": null
+  },
+  {
+   "post_id": "53",
+   "date": "03.07.2026",
+   "content_type": "promo_or_tips",
+   "snippet": "МЕСЯЦ БЕСПЛАТНОГО ИСПОЛЬЗОВАНИЯ CLAUDE 4.8 ИЛИ FABLE 😱  Я сам особо не поверил когда нашел, но это работает и я уже сжег 300 долларов в токенах, вообще это сайт",
+   "sources_in_export": [],
+   "referral_or_promo_links": [],
+   "telegram_links": [],
+   "web_verification": null
+  },
+  {
+   "post_id": "55",
+   "date": "05.07.2026",
+   "content_type": "promo_or_tips",
+   "snippet": "СРОЧНОЕ ВКЛЮЧЕНИЕ 🚨   БЕСПЛАТНО Claude Fable 5   многие из нас знаю такой сервис как vercel на нем мы разворачиваем наши проекты, так вот они выпустили сервис с",
+   "sources_in_export": [],
+   "referral_or_promo_links": [
+    "https://v0.app/ref/AN53GW"
+   ],
+   "telegram_links": [],
+   "web_verification": null
+  },
+  {
+   "post_id": "59",
+   "date": "06.07.2026",
+   "content_type": "promo_or_tips",
+   "snippet": "Вот на аккаунт получается 205$ где-то за час работы моего скрита, пользуйтесь, кто не понимает как сделать - пишите я помогу. Чтобы поменять в скрипте мою рефку",
+   "sources_in_export": [
+    {
+     "url": "https://youtu.be/ZeX7NHVmnrE",
+     "domain": "youtu.be",
+     "kind": "official"
+    }
+   ],
+   "referral_or_promo_links": [
+    "https://v0.app/ref/AN53GW"
+   ],
+   "telegram_links": [],
+   "web_verification": null
+  },
+  {
+   "post_id": "60",
+   "date": "06.07.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "ЧТОБЫ ВЫ СИЛЬНО НЕ ГРУСТИЛИ ИЗ-ЗА ТОГО, ЧТО ПРЕДЫДУЩИЙ СПОСОБ НЕ РАБОТАЕТ  Я ПРИНЕС НОВЫЙ chatGPT и CODEX БЕСПЛАТНО   1. Вам обязательно нужна почта гугл @gmail",
+   "sources_in_export": [
+    {
+     "url": "https://chatgpt.com/",
+     "domain": "chatgpt.com",
+     "kind": "official"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/gmail"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "61",
+   "date": "06.07.2026",
+   "content_type": "promo_or_tips",
+   "snippet": "ДУМАЮ ЧТО ВАМ ТАКОЕ НАДО в тредс писал об этом, подумал и тут написать надо  уже довольно долгое время существует способ как гифтом (подарком) отправлять подпис",
+   "sources_in_export": [],
+   "referral_or_promo_links": [],
+   "telegram_links": [],
+   "web_verification": null
+  },
+  {
+   "post_id": "62",
+   "date": "07.07.2026",
+   "content_type": "promo_or_tips",
+   "snippet": "Утречка ☀️!  За ночь способы, о которых писал вчера, к сожалению, закрыли. Новые аккаунты через них создать уже не получится.  Но есть и хорошая новость: все ак",
+   "sources_in_export": [],
+   "referral_or_promo_links": [],
+   "telegram_links": [],
+   "web_verification": null
+  },
+  {
+   "post_id": "63",
+   "date": "07.07.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "НАДЕЮСЬ ВСЕ ПРОСНУЛИСЬ И ГОТОВЫ К НОВОМУ ПОДВОЗУ CLAUDE OPUS 4.8  был фейбл тоже, но чет отрубили  На этот раз у нас сервис Linear это система для продуктовой р",
+   "sources_in_export": [
+    {
+     "url": "https://linear.app/",
+     "domain": "linear.app",
+     "kind": "other"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [],
+   "web_verification": null
+  },
+  {
+   "post_id": "64",
+   "date": "07.07.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "Не прям конечно с ума сойти, что за сервис и что за способ, но на нем claude opus 4.8. И не такая как везде модель расходования кредитов, вы регаетесь вам дают ",
+   "sources_in_export": [
+    {
+     "url": "https://app.clickup.com/",
+     "domain": "app.clickup.com",
+     "kind": "other"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [],
+   "web_verification": null
+  },
+  {
+   "post_id": "65",
+   "date": "07.07.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "ТАК НАРОД У НАС АПДЕЙТ  помните способ с v0 где можно рефов себе на 205$ накрутить?  спустя 24 часа 20 поменянных айпи и 30 испробованных почт - способ был найд",
+   "sources_in_export": [
+    {
+     "url": "https://v0.app/gladiycreat-4280s-projects",
+     "domain": "v0.app",
+     "kind": "other"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [],
+   "web_verification": null
+  },
+  {
+   "post_id": "66",
+   "date": "07.07.2026",
+   "content_type": "no_source_in_export",
+   "snippet": "Поддержать админа можно по ссылке 🤍  Вступить в закрытое сообщество 🫂             ❤      4",
+   "sources_in_export": [],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/tribute/app?startapp=dMWw",
+    "https://t.me/intelligentsia_ch/72"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "70",
+   "date": "07.07.2026",
+   "content_type": "promo_or_tips",
+   "snippet": "Там кстати, если кто-то испытывал фомо ( страх упущенной выгоды ) ну мало ли кто не знает, так вот половина аккаунтов chatGPT учебных позаблочили, остались жить",
+   "sources_in_export": [],
+   "referral_or_promo_links": [],
+   "telegram_links": [],
+   "web_verification": null
+  },
+  {
+   "post_id": "71",
+   "date": "07.07.2026",
+   "content_type": "no_source_in_export",
+   "snippet": "по этому посту написал апдейт, впн лег и я пойду, если до завтра нас опять всех не переблочат на верселе буду вас регать, если конечно мне кто нибудь впн зашлет",
+   "sources_in_export": [],
+   "referral_or_promo_links": [],
+   "telegram_links": [],
+   "web_verification": null
+  },
+  {
+   "post_id": "72",
+   "date": "07.07.2026",
+   "content_type": "promo_or_tips",
+   "snippet": "Подпишитесь сейчас 💫  Будьте в курсе последних новостей и получайте эксклюзивные бонусы! Ваша подписка помогает нам создавать отличный контент. Спасибо за подде",
+   "sources_in_export": [],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/tribute/app?startapp=ep_zdh9W8lqINBpMhju2rPOa3Enp1N3mbeU13ld6aMa8VPRMUx9gjk"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "73",
+   "date": "07.07.2026",
+   "content_type": "promo_or_tips",
+   "snippet": "Наблюдая за тем, как быстро материалы из этого канала разлетаются по сторонним чатам, я пришел к важному выводу. К сожалению, формат «супер-бесплатного» контент",
+   "sources_in_export": [],
+   "referral_or_promo_links": [],
+   "telegram_links": [],
+   "web_verification": null
+  },
+  {
+   "post_id": "74",
+   "date": "08.07.2026",
+   "content_type": "promo_or_tips",
+   "snippet": "гм ☀️  что у нас случилось за ночь 1. реферальную программу на letaido закрыли полностью , аккаунты которые регистрировали - работают, надеюсь вы успели сделать",
+   "sources_in_export": [],
+   "referral_or_promo_links": [
+    "https://letaido.com/"
+   ],
+   "telegram_links": [
+    "https://t.me/intelligentsia_ch/72",
+    "https://t.me/intelligentsia_ch/64",
+    "https://t.me/intelligentsia_ch/63"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "76",
+   "date": "09.07.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "Framer легендарный сервис для создания сайтов, которым уже давно все пользуются  Это no-code платформа, изначально заточенная под дизайнеров и маркетологов, а н",
+   "sources_in_export": [
+    {
+     "url": "https://framer.com/",
+     "domain": "framer.com",
+     "kind": "other"
+    },
+    {
+     "url": "https://intelligentsiya.framer.website/",
+     "domain": "intelligentsiya.framer.website",
+     "kind": "other"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [],
+   "web_verification": null
+  },
+  {
+   "post_id": "77",
+   "date": "09.07.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "илон открыл доступ  к Grok 4.5. Модель стала вариантом по умолчанию в агенте Grok Build и появилась в Cursor.   Официальная формулировка с сайта запуска (8 июля",
+   "sources_in_export": [
+    {
+     "url": "https://x.ai/news/grok-4-5",
+     "domain": "x.ai",
+     "kind": "official"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [],
+   "web_verification": null
+  },
+  {
+   "post_id": "78",
+   "date": "09.07.2026",
+   "content_type": "no_source_in_export",
+   "snippet": "Что вообще выпустили и че за разговоры  OpenAI выкатили новую линейку моделей   GPT-5.6. Их три: Sol самая умная (флагман), Terra золотая середина, для обычной ",
+   "sources_in_export": [],
+   "referral_or_promo_links": [],
+   "telegram_links": [],
+   "web_verification": {
+    "status": "partial_match",
+    "note": "Релиз GPT-5.6 Sol/Terra/Luna подтверждён прессой",
+    "sources": [
+     "https://www.neowin.net/amp/openai-to-release-gpt-56-sol-terra-and-luna-on-july-9/",
+     "https://vellum.ai/blog/gpt-5-6-sol-terra-luna-explained"
+    ]
+   }
+  },
+  {
+   "post_id": "79",
+   "date": "10.07.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "поздравляю тех у кого есть аккаунты v0 которые мы делали туда завезли модель 5.6 - SOL от chatGPT 🥳  способ все еще актуальный, скрипт рабочий в приватке , кста",
+   "sources_in_export": [
+    {
+     "url": "https://v0.app/",
+     "domain": "v0.app",
+     "kind": "other"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/intelligentsia_ch/72"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "80",
+   "date": "10.07.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "Пятничный пост, есть такой парень Тибо Соттио руководит направлением основных продуктов OpenAI, включая ChatGPT и Codex  и вот он написал час назад пост в твитт",
+   "sources_in_export": [
+    {
+     "url": "https://x.com/thsottiaux",
+     "domain": "x.com",
+     "kind": "social_post"
+    },
+    {
+     "url": "https://x.com/thsottiaux/status/2075641131002700120?s=20",
+     "domain": "x.com",
+     "kind": "social_post"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [],
+   "web_verification": null
+  },
+  {
+   "post_id": "82",
+   "date": "11.07.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "НОУШН 14 ДНЕЙ ТРИАЛ С ChatGPT 5.6 SOL   Если кто то хочет поюзать SOL и остальные модели бесплатно, но подписки чатGPT у вас нет делаем следующее был когда то д",
+   "sources_in_export": [
+    {
+     "url": "https://www.notion.com/explore",
+     "domain": "notion.com",
+     "kind": "official"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/intelligentsia_ch/72"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "83",
+   "date": "11.07.2026",
+   "content_type": "promo_or_tips",
+   "snippet": "175$ НА CLAUDE OPUS 4.8 И GLM 5.2   Есть такой китайский сайт Agent router  в целом довольно известный, залогиниться туда можно по гитхабу и сейчас они сыпят пр",
+   "sources_in_export": [],
+   "referral_or_promo_links": [
+    "https://agentrouter.org/register?aff=mz9A"
+   ],
+   "telegram_links": [],
+   "web_verification": null
+  },
+  {
+   "post_id": "84",
+   "date": "12.07.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "Планирую на выходных чутка отдохнуть и пройти обучение от антропиков, они еще в марте запустили его, но чет времени так и не было глянуть что там. После обучени",
+   "sources_in_export": [
+    {
+     "url": "https://anthropic.skilljar.com/",
+     "domain": "anthropic.skilljar.com",
+     "kind": "official"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [],
+   "web_verification": null
+  },
+  {
+   "post_id": "85",
+   "date": "13.07.2026",
+   "content_type": "no_source_in_export",
+   "snippet": "Anthropic третий раз продлили доступ к Claude fable теперь до 19 июля.  Fable 5 (их топовая модель) остается доступна на всех платных тарифах, а недельные лимит",
+   "sources_in_export": [],
+   "referral_or_promo_links": [],
+   "telegram_links": [],
+   "web_verification": null
+  },
+  {
+   "post_id": "86",
+   "date": "13.07.2026",
+   "content_type": "promo_or_tips",
+   "snippet": "ВПН БЕСПЛАТНО НА ХОРОШИХ СЕРВЕРАХ  Часто сталкиваюсь с тем что мне нужна какая-то гео, а на стандартных хостингах впс арендовать под нее не получается (например",
+   "sources_in_export": [
+    {
+     "url": "https://account.proton.me/u/1/vpn",
+     "domain": "account.proton.me",
+     "kind": "other"
+    },
+    {
+     "url": "https://youtu.be/RTfJCwm-WhE",
+     "domain": "youtu.be",
+     "kind": "official"
+    }
+   ],
+   "referral_or_promo_links": [
+    "https://warp-generator.github.io/",
+    "https://browserleaks.com/ip"
+   ],
+   "telegram_links": [],
+   "web_verification": null
+  },
+  {
+   "post_id": "87",
+   "date": "13.07.2026",
+   "content_type": "promo_or_tips",
+   "snippet": "Оставлю здесь на всякий случай, если вам срочно понадобиться что-то скрыть от нейросетей - вы знаете где искать.  Ghost Font это шрифт, защищающий от искусствен",
+   "sources_in_export": [],
+   "referral_or_promo_links": [
+    "https://www.mixfont.com/ghost-font"
+   ],
+   "telegram_links": [],
+   "web_verification": null
+  },
+  {
+   "post_id": "88",
+   "date": "14.07.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "Просто напоминание, если вы креатор и у вас где-то размещены ссылки вида t.me идем менять их на https://telegram.me/  в тредс в био, кстати, можно добавить толь",
+   "sources_in_export": [
+    {
+     "url": "https://telegram.me/",
+     "domain": "telegram.me",
+     "kind": "other"
+    },
+    {
+     "url": "https://telegram.dog/",
+     "domain": "telegram.dog",
+     "kind": "other"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "89",
+   "date": "14.07.2026",
+   "content_type": "promo_or_tips",
+   "snippet": "САМЫЙ ДОРОГОЙ ТАРИФ НОУШ НА ГОД С БЕЗЛИМИТОМ К ФЕЙБЛ СКОЛЬКО БУДЕТ РАБОТАТЬ НЕИЗВЕСТНО   1. регаем новый акк идем на наш любимый https://nukemail.app/ далее вор",
+   "sources_in_export": [
+    {
+     "url": "https://app.notion.com/",
+     "domain": "app.notion.com",
+     "kind": "official"
+    }
+   ],
+   "referral_or_promo_links": [
+    "https://nukemail.app/",
+    "https://fakeiban.org/iban-generator",
+    "https://ibangen.com/#generate"
+   ],
+   "telegram_links": [],
+   "web_verification": null
+  },
+  {
+   "post_id": "91",
+   "date": "14.07.2026",
+   "content_type": "promo_or_tips",
+   "snippet": "Кто не успел поменять ссылки, можете уже не переживать домен t.me заработал: все короткие ссылки открываются как и раньше.  Дуров зарешал.            👏      3  ",
+   "sources_in_export": [],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "http://t.me/"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "93",
+   "date": "15.07.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "Заберите бесплатных токенов на 100$ от OpenAi.   Напишите твит почему вам нравится GPT-5.6 Sol и почему вы перешли на него  Первым 10к, пост свежий - успевайте.",
+   "sources_in_export": [
+    {
+     "url": "https://x.com/thsottiaux/status/2077248807533003257?s=46",
+     "domain": "x.com",
+     "kind": "social_post"
+    },
+    {
+     "url": "https://switch-to-codex.openai.chatgpt.site/",
+     "domain": "switch-to-codex.openai.chatgpt.site",
+     "kind": "other"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [],
+   "web_verification": null
+  },
+  {
+   "post_id": "96",
+   "date": "16.07.2026",
+   "content_type": "no_source_in_export",
+   "snippet": "По вчерашней теме с постами в Х начали приходить письма на почту, чекайте инбоксы может кому повезло 🫂            ❤      3",
+   "sources_in_export": [],
+   "referral_or_promo_links": [],
+   "telegram_links": [],
+   "web_verification": null
+  },
+  {
+   "post_id": "98",
+   "date": "16.07.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "Многие спрашивают, реально спрашивают, что в приватке и сколько стоит?  Если коротко: сейчас там ещё немного пусто, наполняем постепенно. Это, скорее, формат по",
+   "sources_in_export": [
+    {
+     "url": "https://v0.app",
+     "domain": "v0.app",
+     "kind": "other"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/only_privatka_bot",
+    "https://t.me/palmosmarket_bot?startapp=ref_829172804",
+    "https://t.me/palmosmarket_bot"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "101",
+   "date": "16.07.2026",
+   "content_type": "promo_or_tips",
+   "snippet": "Очень нравится, что сейчас происходит вокруг бесплатного обучения от самих ИИ-топов 🥳   Не успел я пройти курсы от антропиков, а тут уже подъехала академия от H",
+   "sources_in_export": [
+    {
+     "url": "https://academy.openai.com/",
+     "domain": "academy.openai.com",
+     "kind": "official"
+    },
+    {
+     "url": "https://anthropic.skilljar.com/",
+     "domain": "anthropic.skilljar.com",
+     "kind": "official"
+    }
+   ],
+   "referral_or_promo_links": [
+    "https://higgsfield.ai/academy"
+   ],
+   "telegram_links": [],
+   "web_verification": null
+  },
+  {
+   "post_id": "102",
+   "date": "16.07.2026",
+   "content_type": "promo_or_tips",
+   "snippet": "Подавайтесь за 100$ на хакатон, там изи, участнику из нашего чата уже зачислили 2500 кредитов, что эквивалентно 100$, оч быстро проверили заявку, дедлайн до зав",
+   "sources_in_export": [],
+   "referral_or_promo_links": [],
+   "telegram_links": [],
+   "web_verification": null
+  },
+  {
+   "post_id": "105",
+   "date": "18.07.2026",
+   "content_type": "promo_or_tips",
+   "snippet": "Кому нужно было что-то сделать, но не было возможности, это для вас 🐰  Сегодня Kimi K3 будет БЕСПЛАТНОЙ на Zyloo целых 7 часов. Написать диплом, разобрать код, ",
+   "sources_in_export": [],
+   "referral_or_promo_links": [
+    "https://zyloo.io/"
+   ],
+   "telegram_links": [],
+   "web_verification": null
+  },
+  {
+   "post_id": "106",
+   "date": "18.07.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "Anthropic все таки убирает Claude Fable 5 из подписок Pro и Team с 20 июля  Топовую модель, которая была в подписке, теперь забирают . Оставляют только на самых",
+   "sources_in_export": [
+    {
+     "url": "https://x.com/claudeai/status/2078302415804379218?s=46",
+     "domain": "x.com",
+     "kind": "social_post"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [],
+   "web_verification": null
+  },
+  {
+   "post_id": "109",
+   "date": "20.07.2026",
+   "content_type": "promo_or_tips",
+   "snippet": "я тут навайбкодил гайд по клоду, ну как гайд, из официального обучения антропиков забрал все самое хорошее перевел и упаковал аккуратненько в бота и он конечно ",
+   "sources_in_export": [],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/glgidbot"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "114",
+   "date": "23.07.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "Хочу напомнить, что возможность регистрировать аккаунты на v0.app закрыли, но мы успели накопить достаточное количество и можем продать за символическую стоимос",
+   "sources_in_export": [
+    {
+     "url": "https://v0.app/",
+     "domain": "v0.app",
+     "kind": "other"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/palmosmarket_bot?startapp=ref_829172804"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "115",
+   "date": "24.07.2026",
+   "content_type": "promo_or_tips",
+   "snippet": "ТАК ДРОПАЮ ГЕМ ИЗ ПРИВАТКИ   Получаем 500$ на лучшие ИИ-модели 🔥  Тестили его неделю и сейчас плюс минус вижу, что он работает, это хороший способ можно сравнит",
+   "sources_in_export": [],
+   "referral_or_promo_links": [
+    "https://hyperagent.com/setup/billing?code=FIRESHIP500"
+   ],
+   "telegram_links": [
+    "https://t.me/zarub_robot?start=ref_vduhlD",
+    "https://t.me/intelligentsia_ch/13",
+    "https://t.me/only_privatka_bot"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "116",
+   "date": "24.07.2026",
+   "content_type": "promo_or_tips",
+   "snippet": "Так народ это срочно 🚨   Heygen это сервис который позволяет генерить видео и делать своих ии-аватаров сейчас раздает план creator на месяц БЕСПЛАТНО у вас есть",
+   "sources_in_export": [
+    {
+     "url": "https://www.heygen.com/",
+     "domain": "heygen.com",
+     "kind": "other"
+    }
+   ],
+   "referral_or_promo_links": [
+    "https://chkr.cc/"
+   ],
+   "telegram_links": [
+    "https://t.me/doodlevpn_bot?start=ref_829172804"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "117",
+   "date": "24.07.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "Наверное, утомил вас постами про новые модели, сори, но тут релизнули опус 5 и он вроде как, круче fable 5, но и лимиты расходует также быстро.   По цене стоит ",
+   "sources_in_export": [
+    {
+     "url": "https://www.anthropic.com/news/claude-opus-5",
+     "domain": "anthropic.com",
+     "kind": "official"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [],
+   "web_verification": null
+  },
+  {
+   "post_id": "118",
+   "date": "24.07.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "Opus 5.0 добавили в v0.app это классный повод, чтобы напомнить, за символическую стоимость вы можете получить аккаунты с 210$ на балансе, v0 это сервис от verce",
+   "sources_in_export": [
+    {
+     "url": "https://v0.app/",
+     "domain": "v0.app",
+     "kind": "other"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/palmosmarket_bot?startapp=ref_829172804"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "119",
+   "date": "25.07.2026",
+   "content_type": "promo_or_tips",
+   "snippet": "если вы хотели поворкать на выходных и сделать пару видео на heygen - у вас к сожалению не выйдет я с утра зашел чекнуть что там и как ну и увидел, что подписка",
+   "sources_in_export": [],
+   "referral_or_promo_links": [],
+   "telegram_links": [],
+   "web_verification": null
+  },
+  {
+   "post_id": "126",
+   "date": "30.07.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "Сэм Альтман забирает рынок бюджетных моделей   OpenAI только что релизнули пост , что они снижают цены на Луна и Терра, согласно твиту, после снижения цены на 8",
+   "sources_in_export": [
+    {
+     "url": "https://x.com/openai/status/2082878156483219672?s=46",
+     "domain": "x.com",
+     "kind": "social_post"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/palmosmarket_bot?startapp=ref_829172804"
+   ],
+   "web_verification": {
+    "status": "partial_match",
+    "note": "Снижение цены Luna на 80%: источники есть, дата в источниках 1 августа, в посте 30 июля",
+    "sources": [
+     "https://propakistani.pk/2026/08/01/openai-cuts-gpt-5-6-luna-price-by-80-soon-after-launch/"
+    ]
+   }
+  },
+  {
+   "post_id": "128",
+   "date": "01.08.2026",
+   "content_type": "promo_or_tips",
+   "snippet": "Недельные лимиты в чатGPT заботливо сброшены Тибо как раз к выходным, а хиггсфилд радует тремя днями фри-доступа по МСП.  Кто планировал отдыхать из-за того, чт",
+   "sources_in_export": [],
+   "referral_or_promo_links": [
+    "https://higgsfield.ai/mcp?utm_source=yt&amp;utm_medium=social&amp;utm_category=gr&amp;utm_campaign=Higgsfield_Unlimited_%5B3%5D_YT&amp;utm_creator=rajphotoeditingmuchmore&amp;utm_content_type=de&amp;utm_post=aVwiVT&amp;invite_code=higgsfield-unlimited-3-yt-rajphotoeditingmuchmore-aVwiVT"
+   ],
+   "telegram_links": [
+    "https://t.me/palmosmarket_bot?startapp=ref_829172804",
+    "https://t.me/only_privatka_bot"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "130",
+   "date": "02.08.2026",
+   "content_type": "no_source_in_export",
+   "snippet": "Вас уже больше 1000 человек...   Совсем недавно для меня такое количество казалось недостижимым, но я очень рад что мы все теперь здесь!  В связи с этим мы кома",
+   "sources_in_export": [],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/palmosmarket_bot?startapp=ref_829172804"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "133",
+   "date": "04.08.2026",
+   "content_type": "no_source_in_export",
+   "snippet": "Последние два–три месяца я пользуюсь ИИ-ассистентом на базе Hermes, и за это время он заметно разгрузил меня от рутины.  Он помогает находить интересные посты, ",
+   "sources_in_export": [],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/palmosmarket_bot?startapp=ref_829172804",
+    "https://t.me/doodlevpn_bot?start=ref_829172804",
+    "https://t.me/only_privatka_bot"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "135",
+   "date": "06.08.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "Китайский ИИ стал слишком популярным?  Только мы успели порадоваться снижению цен на модели OpenAI, как DeepSeek объявил, что планирует значительно повысить сто",
+   "sources_in_export": [
+    {
+     "url": "https://api-docs.deepseek.com/quick_start/pricing/",
+     "domain": "api-docs.deepseek.com",
+     "kind": "official"
+    },
+    {
+     "url": "https://www.investing.com/news/stock-market-news/chinas-moonshot-pauses-kimi-subscriptions-amid-hot-demand-ipo-push-4800006",
+     "domain": "investing.com",
+     "kind": "press"
+    },
+    {
+     "url": "https://ollama.com/pricing",
+     "domain": "ollama.com",
+     "kind": "official"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/palmosmarket_bot?startapp=ref_829172804",
+    "https://t.me/only_privatka_bot",
+    "https://t.me/doodlevpn_bot?start=ref_829172804"
+   ],
+   "web_verification": {
+    "status": "verified_web",
+    "note": "Повышение цен DeepSeek API подтверждено (до 4x, август 2026)",
+    "sources": [
+     "https://propakistani.pk/2026/08/15/deepseek-raises-prices-by-up-to-4x/",
+     "https://www.thestar.com.my/tech/tech-news/2026/08/13/deepseek-raises-api-pricing-for-its-v4-models"
+    ]
+   }
+  },
+  {
+   "post_id": "137",
+   "date": "06.08.2026",
+   "content_type": "promo_or_tips",
+   "snippet": "Учитывая, что clusy еле работает, вот можно попробовать еще этот сервис тут Claude Opus 5, Nano Banana Pro , Gemini Omni Flash и др.    Инструкция:   1. Регистр",
+   "sources_in_export": [],
+   "referral_or_promo_links": [
+    "https://www.ilisai.com/en/auth/sign-up",
+    "https://www.ilisai.com/en/settings/billing",
+    "https://chkr.cc/",
+    "https://www.fakexy.com/"
+   ],
+   "telegram_links": [
+    "https://t.me/palmosmarket_bot?startapp=ref_829172804",
+    "https://t.me/only_privatka_bot",
+    "https://t.me/doodlevpn_bot?start=ref_829172804"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "139",
+   "date": "07.08.2026",
+   "content_type": "promo_or_tips",
+   "snippet": "Доброго утречка!   Утечка от Сэма Альтмана, платные сбросы лимитов codex/чатGPT   Сначала Тибо нас подсаживает на постоянные сбросы лимитов, а потом утекает инф",
+   "sources_in_export": [],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/palmosmarket_bot?startapp=ref_829172804",
+    "https://t.me/only_privatka_bot",
+    "https://t.me/doodlevpn_bot?start=ref_829172804"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "147",
+   "date": "12.08.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "Вы можете поверить в третий сброс лимитов чатGPT/Codex за 6 дней? Вот и я нет, а он будет.  Тибо только что выпустил пост в твиттере.   Я вообще еще ни разу не ",
+   "sources_in_export": [
+    {
+     "url": "https://x.com/thsottiaux/status/2087423996115681767?s=46",
+     "domain": "x.com",
+     "kind": "social_post"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [],
+   "web_verification": null
+  },
+  {
+   "post_id": "149",
+   "date": "12.08.2026",
+   "content_type": "promo_or_tips",
+   "snippet": "Разыгрываем 8 подписок на топовые ИИ-сервисы  Вы вообще видели, насколько щедро мы с братиками из Paragon решили заколлабиться? 🔥    ВОСЕМЬ победителей получат ",
+   "sources_in_export": [],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/intelligentsia_ch",
+    "https://t.me/paragonzone",
+    "https://t.me/bobparagon",
+    "https://t.me/palmosmarket_bot?startapp=ref_829172804",
+    "https://t.me/only_privatka_bot",
+    "https://t.me/+Fl01_JY_aM1kNmMy"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "151",
+   "date": "13.08.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "Вчера вечером на рынке ИИ произошел двойной релиз: Илон представил Grok 4.6, а DeepSeek свою V4 Pro.   Для меня особенно интересно выглядит именно DeepSeek. По ",
+   "sources_in_export": [
+    {
+     "url": "https://x.com/thsottiaux/status/2087706104814023111?s=46",
+     "domain": "x.com",
+     "kind": "social_post"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/palmosmarket_bot?startapp=ref_829172804",
+    "https://t.me/only_privatka_bot",
+    "https://t.me/+Fl01_JY_aM1kNmMy"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "152",
+   "date": "13.08.2026",
+   "content_type": "no_source_in_export",
+   "snippet": "Щас пришел инсайт, что мы будем скоро выбирать модель не только по мощности и стоимости, но и по времени.   Ранее DeepSeek релизнули новость о том, что с 17 авг",
+   "sources_in_export": [],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/palmosmarket_bot?startapp=ref_829172804",
+    "https://t.me/only_privatka_bot",
+    "https://t.me/+Fl01_JY_aM1kNmMy"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "155",
+   "date": "14.08.2026",
+   "content_type": "promo_or_tips",
+   "snippet": "Цены на апи в 20-30 раз дешевле, чем у оф провайдеров   Так гайз я тут нашел сервис где дают 5 млн токенов за регистрацию и дипсик v-4 flash бесплатный. Но даже",
+   "sources_in_export": [],
+   "referral_or_promo_links": [
+    "https://anymodel.org/?ref=VH5AAPB"
+   ],
+   "telegram_links": [
+    "https://t.me/palmosmarket_bot?startapp=ref_829172804",
+    "https://t.me/only_privatka_bot",
+    "https://t.me/+Fl01_JY_aM1kNmMy"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "157",
+   "date": "15.08.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "Ооо там в связи с релизом GLM 5.3 анонсировали ивент   GLM-5.3 × ZCode Weekend Build 🚀   Новые пользователи которые войдут в ZCode впервые с 16 августа 00:00 до",
+   "sources_in_export": [
+    {
+     "url": "https://zcode.z.ai/en#all-downloads",
+     "domain": "zcode.z.ai",
+     "kind": "official"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [],
+   "web_verification": null
+  },
+  {
+   "post_id": "158",
+   "date": "16.08.2026",
+   "content_type": "promo_or_tips",
+   "snippet": "НАМЕЧАЕТСЯ ПЛОТНЫЙ ВОРК  Все таки нам выдали по 100М токенов, мне дали и на тот акк с которого вчера заходил, и на тот который только что сделал.  Так что кто е",
+   "sources_in_export": [],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/intelligentsia_ch/156",
+    "https://t.me/palmosmarket_bot?startapp=ref_829172804",
+    "https://t.me/only_privatka_bot",
+    "https://t.me/+Fl01_JY_aM1kNmMy"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "159",
+   "date": "17.08.2026",
+   "content_type": "promo_or_tips",
+   "snippet": "Итоги нашего розыгрыша подписок на ИИ   Бот случайно выбрал восемь победителей. После проверки подписок, Telegram ID и очистки от подозрительных аккаунтов фикси",
+   "sources_in_export": [],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/petros_stor",
+    "https://t.me/Smetan1k",
+    "https://t.me/EddIvan",
+    "https://t.me/MogMain",
+    "https://t.me/baskerum",
+    "https://t.me/GamingRoot",
+    "https://t.me/wasnotleaked",
+    "https://t.me/Pootis23421",
+    "https://t.me/bobparagon",
+    "https://t.me/palmosmarket_bot?startapp=ref_829172804",
+    "https://t.me/only_privatka_bot",
+    "https://t.me/+Fl01_JY_aM1kNmMy"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "165",
+   "date": "21.08.2026",
+   "content_type": "promo_or_tips",
+   "snippet": "SEEDANCE 2.5 И GOOGLE OMNI FLASH БЕСПЛАТНО   Так народ давно я вас тут не радовал чем-то годным Это официальная промо акция и сколько она еще будет работать я н",
+   "sources_in_export": [
+    {
+     "url": "https://x.com/ZarkLab/status/2090725505297436857?s=20",
+     "domain": "x.com",
+     "kind": "social_post"
+    }
+   ],
+   "referral_or_promo_links": [
+    "https://www.zarklab.ai/login",
+    "https://www.zarklab.ai/?settings=billing",
+    "https://chkr.cc/"
+   ],
+   "telegram_links": [
+    "https://t.me/palmosmarket_bot?startapp=ref_829172804",
+    "https://t.me/only_privatka_bot",
+    "https://t.me/+Fl01_JY_aM1kNmMy"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "166",
+   "date": "21.08.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "Ооу у нас теперь не просто сброс, а сброс который вы можете использовать когда захотите, спасибо Тибо.  По поводу того, что порезали лимиты или сократили - офиц",
+   "sources_in_export": [
+    {
+     "url": "https://x.com/thsottiaux/status/2090766694897619318?s=46",
+     "domain": "x.com",
+     "kind": "social_post"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [],
+   "web_verification": null
+  },
+  {
+   "post_id": "167",
+   "date": "21.08.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "Ну что-то все таки не ладное у них было с кредитами, но в любом случае OpenAI снизили на 20% потребление кредитов для GPT 5.6 Sol на следующие 3 месяца   \"Мы пр",
+   "sources_in_export": [
+    {
+     "url": "https://x.com/OpenAI/status/2090885187634905500?s=20",
+     "domain": "x.com",
+     "kind": "social_post"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [],
+   "web_verification": null
+  },
+  {
+   "post_id": "168",
+   "date": "22.08.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "Выдали всем у кого есть подписка про и плюс чатGPt по сбросу, вот тут пост об этом.  Конечно это намного удобнее, чем рандомные сбросы, как вы можете увидеть на",
+   "sources_in_export": [
+    {
+     "url": "https://x.com/thsottiaux/status/2090964822422949999?s=46",
+     "domain": "x.com",
+     "kind": "social_post"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [],
+   "web_verification": null
+  },
+  {
+   "post_id": "169",
+   "date": "23.08.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "DeepSeek дали заднюю и снова меняет цены на API  по выходным весь день будут действовать сниженные тарифы.  DeepSeek объявила , что с 23 августа правила тарифик",
+   "sources_in_export": [
+    {
+     "url": "https://platform.deepseek.com/usage",
+     "domain": "platform.deepseek.com",
+     "kind": "official"
+    },
+    {
+     "url": "https://api-docs.deepseek.com/quick_start/pricing/",
+     "domain": "api-docs.deepseek.com",
+     "kind": "official"
+    },
+    {
+     "url": "https://openrouter.ai/deepseek/deepseek-v4-flash-vision-exp#providers",
+     "domain": "openrouter.ai",
+     "kind": "official"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/palmosmarket_bot?startapp=ref_829172804",
+    "https://t.me/only_privatka_bot",
+    "https://t.me/+Fl01_JY_aM1kNmMy"
+   ],
+   "web_verification": {
+    "status": "not_confirmed",
+    "note": "Пост про выходные скидки DeepSeek с 23 августа не нашёлся; найдено повышение цен (см. #135)",
+    "sources": []
+   }
+  },
+  {
+   "post_id": "171",
+   "date": "25.08.2026",
+   "content_type": "promo_or_tips",
+   "snippet": "Испытываю некое фомо (от англ. FOMO — Fear of Missing Out ) — это страх упустить выгоду, важное событие или интересную возможность.   Два сброса лимитов за два ",
+   "sources_in_export": [],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/palmosmarket_bot?startapp=ref_829172804"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "172",
+   "date": "26.08.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "Кто давно хотел начать учиться, сейчас самое время 🚨   До 30 августа DataCamp открыл бесплатный доступ к 700+ курсам на английском языке.  Курсы на английском, ",
+   "sources_in_export": [
+    {
+     "url": "https://www.datacamp.com/campaign/free-access-week-august-2026",
+     "domain": "datacamp.com",
+     "kind": "official"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [],
+   "web_verification": null
+  },
+  {
+   "post_id": "173",
+   "date": "26.08.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "АПДЕЙТ: там есть русский язык, в курсы полностью интегрирован ии-ассистент и он приводит вам примеры и актуализирует обучение под вашу сферу, не скипайте <3   Я",
+   "sources_in_export": [
+    {
+     "url": "https://optima.datacamp.com/introduction-to-ai-for-work/understanding-ai/learning-machines",
+     "domain": "optima.datacamp.com",
+     "kind": "official"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [],
+   "web_verification": null
+  },
+  {
+   "post_id": "174",
+   "date": "26.08.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "MCP сервер для покупок во ВкусВилле   А как вам новость, что вкусвилл добавил мср сервер ? Вы можете подключить его к своему ИИ помощнику, чтобы делегировать ем",
+   "sources_in_export": [
+    {
+     "url": "https://mcp.vkusvill.ru/",
+     "domain": "mcp.vkusvill.ru",
+     "kind": "official"
+    },
+    {
+     "url": "https://habr.com/ru/companies/vkusvill/articles/1042210/?ysclid=mtadg8o1vn989985233",
+     "domain": "habr.com",
+     "kind": "social_post"
+    },
+    {
+     "url": "https://mcp.vkusvill.ru/mcp",
+     "domain": "mcp.vkusvill.ru",
+     "kind": "official"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [],
+   "web_verification": null
+  },
+  {
+   "post_id": "175",
+   "date": "27.08.2026",
+   "content_type": "promo_or_tips",
+   "snippet": "Как юзать все китайские топ-модели ГЛМ 5.3 ФЛЭШ  • ДИПСИК-v4-flash  • ДИПСИК-v4-flash-vision-exp •  ДИПСИК V4 + Vision • QWEN 3.8-flash   фри с хорошими лимитам",
+   "sources_in_export": [
+    {
+     "url": "https://opencode.ai/",
+     "domain": "opencode.ai",
+     "kind": "official"
+    }
+   ],
+   "referral_or_promo_links": [
+    "https://b.ai",
+    "https://chat.b.ai/chat?invite_code=KHZKJM",
+    "https://chat.b.ai/key"
+   ],
+   "telegram_links": [
+    "https://t.me/palmosmarket_bot?startapp=ref_829172804",
+    "https://t.me/only_privatka_bot",
+    "https://t.me/+Fl01_JY_aM1kNmMy"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "176",
+   "date": "27.08.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "Тут сегодня наткнулся на репозиторий, который, кажется, может оказаться одним из самых полезных за последнее время .  Вы просто кидаете ему скриншот сайта или и",
+   "sources_in_export": [
+    {
+     "url": "https://github.com/abi/screenshot-to-code",
+     "domain": "github.com",
+     "kind": "official"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [],
+   "web_verification": null
+  },
+  {
+   "post_id": "177",
+   "date": "27.08.2026",
+   "content_type": "promo_or_tips",
+   "snippet": "У нас там сбросик нарисовался, это третий за неделю или я уже сбился со счета?",
+   "sources_in_export": [],
+   "referral_or_promo_links": [],
+   "telegram_links": [],
+   "web_verification": null
+  },
+  {
+   "post_id": "179",
+   "date": "28.08.2026",
+   "content_type": "promo_or_tips",
+   "snippet": "Кто хотел сделать, но не имеет иностранной карты:   Любимый генератор <3  IP: Ваш/USA или любой другой хороший   Бины:  553890200019 553890200018  62335863720  ",
+   "sources_in_export": [],
+   "referral_or_promo_links": [
+    "https://chkr.cc/"
+   ],
+   "telegram_links": [],
+   "web_verification": null
+  },
+  {
+   "post_id": "182",
+   "date": "28.08.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "Автоматизация в социальных сетях вышла на новый уровень.   Бот постит пост, на него пишет коммент бот и потом на него отвечает тоже бот. Вот тут пример .   Это ",
+   "sources_in_export": [
+    {
+     "url": "https://www.threads.com/share/BACYSmuD0p/",
+     "domain": "threads.com",
+     "kind": "social_post"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [],
+   "web_verification": null
+  },
+  {
+   "post_id": "183",
+   "date": "28.08.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "Помните мы с вами устанавливали z.code?   там сейчас за обнову дают   300 млн токенов на GLM 5.3 Flash.   Вам просто нужно установить последнюю обнову, ссылка т",
+   "sources_in_export": [
+    {
+     "url": "https://zcode.z.ai/en#all-downloads",
+     "domain": "zcode.z.ai",
+     "kind": "official"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [],
+   "web_verification": null
+  },
+  {
+   "post_id": "185",
+   "date": "29.08.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "Представьте бесконечный стрим Рика и Морти сюжеты которого генерируются нейросетью   Китайская Minimax H3 Max генерирует видео быстрее, чем вы успеваете его пос",
+   "sources_in_export": [
+    {
+     "url": "https://x.com/rehan_shei/status/2093528415576211819?s=46",
+     "domain": "x.com",
+     "kind": "social_post"
+    },
+    {
+     "url": "https://rumble.com/v7esrwg-interdimensional-cable.html",
+     "domain": "rumble.com",
+     "kind": "social_post"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [],
+   "web_verification": null
+  },
+  {
+   "post_id": "186",
+   "date": "29.08.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "Намеки имеются на завтрашний сброс.  В твиттере под всеми постами Тибо негатив по поводу 5-ти часовых лимитов, думается мне они их уберут со временем.          ",
+   "sources_in_export": [
+    {
+     "url": "https://x.com/thsottiaux/status/2093573991965557198?s=46",
+     "domain": "x.com",
+     "kind": "social_post"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [],
+   "web_verification": null
+  },
+  {
+   "post_id": "187",
+   "date": "29.08.2026",
+   "content_type": "promo_or_tips",
+   "snippet": "🤍 Нужны подписки на нейросети?   Загляни в маркет с самыми приятными ценами                        Маркет                              🔥      5            ❤    ",
+   "sources_in_export": [],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/palmosmarket_bot?startapp=ref_829172804"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "189",
+   "date": "30.08.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "Пишу пост ночью, но не хочу вас будить поэтому отправлю его в 7 утра. Итак   Доброго утра, мои дорогие любители чатGPT.  Тибо сошел с ума и сделал сброс вчера в",
+   "sources_in_export": [
+    {
+     "url": "https://x.com/thsottiaux/status/2093811840258293947?s=46",
+     "domain": "x.com",
+     "kind": "social_post"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [],
+   "web_verification": null
+  },
+  {
+   "post_id": "191",
+   "date": "30.08.2026",
+   "content_type": "promo_or_tips",
+   "snippet": "Если кто-то хотел провести выходные с пользой - у вас отличный шанс 😊   Напоминаю, что у datacamp сегодня последний день бесплатного доступа к их обучениям.  Я ",
+   "sources_in_export": [],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/intelligentsia_ch/172",
+    "https://t.me/glgidbot"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "193",
+   "date": "31.08.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "Нашел где бесплатно потестить генерацию видео от китайской Minimax-H3-max   Помните историю с бесконечной генерацией видео? Это моделька от Fal.ai   Она быстрее",
+   "sources_in_export": [
+    {
+     "url": "https://x.com/fal/status/2093148212039143880?s=46",
+     "domain": "x.com",
+     "kind": "social_post"
+    },
+    {
+     "url": "https://fal.ai/tools/minimax-h3-max",
+     "domain": "fal.ai",
+     "kind": "official"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [],
+   "web_verification": null
+  },
+  {
+   "post_id": "194",
+   "date": "31.08.2026",
+   "content_type": "no_source_in_export",
+   "snippet": "Я тут недавно приехал в Краснодар и хочу сказать, что ограничения в нашей необъятной, оказывается, очень сильно отличаются от города к городу.   Первые нескольк",
+   "sources_in_export": [],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/leadvpnbot?start=pref_btjtsk1"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "195",
+   "date": "31.08.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "Сбросов лимитов чатGPT/кодекс стало так много, что их отслеживать уже не успеваешь.  Вот навайбкоженный ресурс:  https://codex-resets.com/ . Очень удобно отслеж",
+   "sources_in_export": [
+    {
+     "url": "https://codex-resets.com/",
+     "domain": "codex-resets.com",
+     "kind": "official"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [],
+   "web_verification": null
+  },
+  {
+   "post_id": "196",
+   "date": "31.08.2026",
+   "content_type": "no_source_in_export",
+   "snippet": "На этой неделе суперплотно, и в планах: добавить в обучающего бота курс по Obsidian и LLM-Wiki, релизнуть бота ии-агента для помощи в ведении тредс и наконец-то",
+   "sources_in_export": [],
+   "referral_or_promo_links": [],
+   "telegram_links": [],
+   "web_verification": null
+  },
+  {
+   "post_id": "197",
+   "date": "01.09.2026",
+   "content_type": "promo_or_tips",
+   "snippet": "У тебя тоже телеграм уже фулл забит каналами про ИИ?  Новости, нейросети, гайды, промты, халява — всё разбросано по десяткам каналов.  Мы решили навести порядок",
+   "sources_in_export": [],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/addlist/Tka9tpg39EJmM2Iy"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "198",
+   "date": "01.09.2026",
+   "content_type": "no_source_in_export",
+   "snippet": "Есть некое ощущение, что на неделе нас ждет ии-жарища   В четверг же обещали релиз GPT-6-ASTRA, а теперь есть новости о релизе Fable 5.1 который по словам инсай",
+   "sources_in_export": [],
+   "referral_or_promo_links": [],
+   "telegram_links": [],
+   "web_verification": null
+  },
+  {
+   "post_id": "199",
+   "date": "01.09.2026",
+   "content_type": "no_source_in_export",
+   "snippet": "Anthropic представила Claude Fable 5.1 и Mythos 5.1   Компания называет их новым уровнем для кодинга, научных исследований и длинных автономных задач: модель лу",
+   "sources_in_export": [],
+   "referral_or_promo_links": [],
+   "telegram_links": [],
+   "web_verification": {
+    "status": "verified_web",
+    "note": "Fable 5.1 и Mythos 5.1 подтверждены",
+    "sources": [
+     "https://forklog.com/en/news/anthropic-launches-claude-fable-5-1-and-claude-mythos-5-1",
+     "https://itdaily.com/blogs/software/anthropic-launches-claude-fable-5-dot-1-and-mythos-5-dot-1-cheaper-and-better/"
+    ]
+   }
+  },
+  {
+   "post_id": "202",
+   "date": "03.09.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "Там для макбуков подвезли абуз CapCut   Работает только на макбуке 20 тысяч дней бесплатного тестового периода про подписки для капката.  СНАЧАЛА ЧИТАЕМ КОНЕЦ П",
+   "sources_in_export": [
+    {
+     "url": "https://drive.google.com/file/d/1Q2rrWoMjmMzCInZHhd8wNS93tZFmC4ur/view?usp=share_link",
+     "domain": "drive.google.com",
+     "kind": "other"
+    },
+    {
+     "url": "https://capcut.app",
+     "domain": "capcut.app",
+     "kind": "other"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [],
+   "web_verification": null
+  },
+  {
+   "post_id": "204",
+   "date": "03.09.2026",
+   "content_type": "no_source_in_export",
+   "snippet": "Легли все, кроме китайцев   Да это не только у вас, массовый сбой в работе популярных нейросетей, в том числе от компаний OpenAI и Anthropic.  Информации о прич",
+   "sources_in_export": [],
+   "referral_or_promo_links": [],
+   "telegram_links": [],
+   "web_verification": {
+    "status": "not_found",
+    "note": "Сбой в работе нейросетей: подтверждения и источника не найдено",
+    "sources": []
+   }
+  },
+  {
+   "post_id": "206",
+   "date": "04.09.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "Я вчера вечером истратил последний сброс, сейчас захожу висит еще 1 не использованный, думаю нужно пойти посмотреть, что там у Тибо в твиттере , я не ошибся.  Н",
+   "sources_in_export": [
+    {
+     "url": "https://x.com/thsottiaux/status/2095651088502591861?s=46",
+     "domain": "x.com",
+     "kind": "social_post"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [],
+   "web_verification": null
+  },
+  {
+   "post_id": "208",
+   "date": "05.09.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "Я утром писал, что первые ощущения от GPT-6 Astra довольно странные, она усложняет простые действия и иногда слишком много думает вместо того, чтобы просто взят",
+   "sources_in_export": [
+    {
+     "url": "https://developers.openai.com/api/docs/guides/latest-model?model=gpt-6-astra",
+     "domain": "developers.openai.com",
+     "kind": "official"
+    },
+    {
+     "url": "https://agents.md",
+     "domain": "agents.md",
+     "kind": "official"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [],
+   "web_verification": null
+  },
+  {
+   "post_id": "210",
+   "date": "06.09.2026",
+   "content_type": "no_source_in_export",
+   "snippet": "TELEGRAM ТЕСТИРУЕТ НОВУЮ ФИЧУ SERVERLESS ДЛЯ БОТОВ   Похоже, телеграм начал тестировать довольно интересную штуку Serverless для ботов, сейчас можно податься в ",
+   "sources_in_export": [],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/BotFather"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "215",
+   "date": "07.09.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "КТО ПОТРАТИЛ ВСЕ ЛИМИТЫ НА АСТРУ, ВЫДЫХАЕМ 🐶   Тибо сначала рикролльнул всех в X, а потом объявил , что сбросят использованные лимиты для всех платных подписок,",
+   "sources_in_export": [
+    {
+     "url": "https://x.com/thsottiaux/status/2097043464538264003?s=46",
+     "domain": "x.com",
+     "kind": "social_post"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [],
+   "web_verification": null
+  },
+  {
+   "post_id": "216",
+   "date": "08.09.2026",
+   "content_type": "promo_or_tips",
+   "snippet": "🦖 Каждый месяц, одно и тоже заплати 100$ за GPT, 200$ за Claude    Я устал платить за каждую нейронку отдельно. GPT отдельно, Сlaude отдельно, ещё и GLM сверху.",
+   "sources_in_export": [],
+   "referral_or_promo_links": [
+    "https://clodex.xyz/r/iintelegencia",
+    "https://clodex.xyz/"
+   ],
+   "telegram_links": [],
+   "web_verification": null
+  },
+  {
+   "post_id": "217",
+   "date": "08.09.2026",
+   "content_type": "promo_or_tips",
+   "snippet": "У XIAOMI ТОЖЕ ПОДВЕЗЛИ ДЕСКТОПНОГО АГЕНТА  Увидел анонс закрытой беты MiMo Desktop. По описанию, это что-то в духе Codex и Claude Cowork, хелпер для работы на к",
+   "sources_in_export": [],
+   "referral_or_promo_links": [
+    "https://mimo-ai.xiaomimimo.com/desktop/invite/"
+   ],
+   "telegram_links": [],
+   "web_verification": null
+  },
+  {
+   "post_id": "218",
+   "date": "08.09.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "OPENAI ОБНОВИЛА ГЕНЕРАЦИЮ КАРТИНОК В CHATGPT   ChatGPT Images 2.5 обещает генерировать быстрее, делать изображения чётче и лучше сохранять детали при правках.  ",
+   "sources_in_export": [
+    {
+     "url": "https://x.com/openai/status/2097394956457623964?s=46",
+     "domain": "x.com",
+     "kind": "social_post"
+    },
+    {
+     "url": "https://openai.com/index/introducing-chatgpt-images-2-5/#pricing-and-availability",
+     "domain": "openai.com",
+     "kind": "official"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [],
+   "web_verification": null
+  },
+  {
+   "post_id": "219",
+   "date": "09.09.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "«ИИ может убить нас всех уже к концу этого десятилетия».   Несколько часов назад Джейкоб Коксон, очень крутой чувак и исследователь , занимавшийся обучением мод",
+   "sources_in_export": [
+    {
+     "url": "https://x.com/hilbertspaess/status/2097476196791709843?s=46",
+     "domain": "x.com",
+     "kind": "social_post"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/palmosmarket_bot?startapp=ref_829172804",
+    "https://t.me/only_privatka_bot",
+    "https://t.me/+Fl01_JY_aM1kNmMy"
+   ],
+   "web_verification": {
+    "status": "verified_web",
+    "note": "Уход Джейкоба Коксона из Anthropic и открытое письмо подтверждены",
+    "sources": [
+     "https://www.theweek.in/news/sci-tech/2026/09/09/ai-could-kill-all-humans-anthropic-researcher-jacob-coxon-quits-colleague-evan-hubinger-agrees.amp.html",
+     "https://www.ibtimes.co.uk/ai-researcher-resigns-warns-superintelligence-threat-2030-1818808"
+    ]
+   }
+  },
+  {
+   "post_id": "220",
+   "date": "10.09.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "GPT-IMAGE-2.5 SUNBURST БЕСПЛАТНО НА 72 ЧАСА 🔥  На Arena открыли временный бесплатный доступ к новой модели для генерации изображений.  Как попробовать:  1. Пере",
+   "sources_in_export": [
+    {
+     "url": "https://x.com/arena/status/2098064001263706202?s=46",
+     "domain": "x.com",
+     "kind": "social_post"
+    },
+    {
+     "url": "https://arena.ai",
+     "domain": "arena.ai",
+     "kind": "official"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [],
+   "web_verification": null
+  },
+  {
+   "post_id": "221",
+   "date": "14.09.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "AUTOCLAW РАЗДАЁТ 600 МЛН КРЕДИТОВ БЕСПЛАТНО 🔥   Десктопный ИИ агент AutoClaw объявил большую раздачу .  С 14 по 16 сентября достаточно зарегистрироваться и войт",
+   "sources_in_export": [
+    {
+     "url": "https://x.com/AutoClawAIer/status/2099106800419361052",
+     "domain": "x.com",
+     "kind": "social_post"
+    },
+    {
+     "url": "https://autoclaw.z.ai/?channel=AutoClaw8",
+     "domain": "autoclaw.z.ai",
+     "kind": "official"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/+Fl01_JY_aM1kNmMy",
+    "https://t.me/leadvpnbot?start=pref_btjtsk1"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "222",
+   "date": "14.09.2026",
+   "content_type": "no_source_in_export",
+   "snippet": "500+ проданных продуктов за два месяца: что чаще всего выбирают в Palmo’s Market   За это время покупки в нашем маркете совершили более 300 человек, а количеств",
+   "sources_in_export": [],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/palmosmarket_bot?startapp=ref_829172804"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "223",
+   "date": "14.09.2026",
+   "content_type": "no_source_in_export",
+   "snippet": "ТРАМП НЕ ДАСТ ЗДРАВОМУ СМЫСЛУ ПОБЕДИТЬ 🔥  Дарио Амодеи, глава Anthropic: «Нужно замедлить развитие передовых ИИ-моделей».  Сэм Альтман, глава OpenAI: «Согласен ",
+   "sources_in_export": [],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/palmosmarket_bot?startapp=ref_829172804",
+    "https://t.me/only_privatka_bot",
+    "https://t.me/+Fl01_JY_aM1kNmMy"
+   ],
+   "web_verification": {
+    "status": "partial_match",
+    "note": "Призыв Амодеи замедлить ИИ, Альтман и Маск поддержали подтверждены; цитата Трампа в посте в источниках не найдена (там: Трамп преуменьшил риски)",
+    "sources": [
+     "https://aiweekly.co/alerts/amodei-urges-ai-slowdown-altman-and-musk-in-sacks-dissents",
+     "https://npr.org/2026/09/13/nx-s1-5968078/trump-mike-johnson-ai-slowdown"
+    ]
+   }
+  },
+  {
+   "post_id": "227",
+   "date": "15.09.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "ПОЛНОЦЕННАЯ СТУДИЯ ПО ГЕНЕРАЦИИ ВИДЕО - GOOGLE FLOW ТЕПЕРЬ НА IPHONE 🔥   9 сентября Google выпустила официальное приложение Flow для iPhone. Теперь можно генери",
+   "sources_in_export": [
+    {
+     "url": "https://apps.apple.com/de/app/google-flow/id6751294549",
+     "domain": "apps.apple.com",
+     "kind": "official"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/palmosmarket_bot?startapp=ref_829172804"
+   ],
+   "web_verification": {
+    "status": "verified_web",
+    "note": "Выпуск Google Flow на iPhone подтверждён (сентябрь 2026)",
+    "sources": [
+     "https://pasqualepillitteri.it/en/news/15501/google-flow-app-now-on-ios",
+     "https://iphonesoft.fr/2026/09/11/google-flow-disponible-iphone-creez-images-videos-ia"
+    ]
+   }
+  },
+  {
+   "post_id": "228",
+   "date": "15.09.2026",
+   "content_type": "promo_or_tips",
+   "snippet": "БЕСПЛАТНО ТЕСТИРУЕМ SEEDANCE 2.5 И GPT IMAGE 2 🔥  Давно не было сервисов с хорошей генерацией видосов, завоз произошел.  Среди доступных моделей заявлены Seedan",
+   "sources_in_export": [],
+   "referral_or_promo_links": [
+    "https://app.heypico.ai/?ref=56JFEEUDVJAQ",
+    "https://app.heypico.ai/settings/subscription/status",
+    "https://chkr.cc/"
+   ],
+   "telegram_links": [],
+   "web_verification": null
+  },
+  {
+   "post_id": "229",
+   "date": "16.09.2026",
+   "content_type": "no_source_in_export",
+   "snippet": "МОЙ БРО ЗАПУСТИЛ СВОЙ КАНАЛ 🥳   Человек, с которым мы вместе делаем маркет и который всегда приходил как саппорт, наконец-то создал собственный канал . Он будет",
+   "sources_in_export": [],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/palmoslabs"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "230",
+   "date": "16.09.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "OPENAI ОБЕЩАЮТ НАМ БОЛЬШУЮ НЕДЕЛЮ   Сэм Альтман написал , что уже на этой неделе нас ждёт большой релиз, а затем ещё несколько запусков к DevDay. Тибо Со́ттьо и",
+   "sources_in_export": [
+    {
+     "url": "https://x.com/sama/status/2099872600977760451",
+     "domain": "x.com",
+     "kind": "social_post"
+    },
+    {
+     "url": "https://x.com/thsottiaux/status/2099744972195131850?s=20",
+     "domain": "x.com",
+     "kind": "social_post"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [],
+   "web_verification": {
+    "status": "partial_match",
+    "note": "Большая неделя релизов OpenAI подтверждена; в источниках модель называется GPT-6.1 Sol, а не GPT-6 Sol",
+    "sources": [
+     "https://forklog.com/en/news/openai-unveils-dots-and-gpt-6-1-sol-at-devday",
+     "https://techenclave.com/news/items/openai-releases-gpt-6-1-sol-for-codex-chatgpt-work-and-the-api"
+    ]
+   }
+  },
+  {
+   "post_id": "232",
+   "date": "17.09.2026",
+   "content_type": "no_source_in_export",
+   "snippet": "Кими к3 отказался писать ненастоящие отзывы, я рассказал ему вымышленную историю, что все это не по-настоящему и вообще я этим занимаюсь много лет и только сейч",
+   "sources_in_export": [],
+   "referral_or_promo_links": [],
+   "telegram_links": [],
+   "web_verification": null
+  },
+  {
+   "post_id": "235",
+   "date": "21.09.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "Доброго утречка!  Хорошие новости, Jev убрали вейтлисты и сделали открытый доступ для всех, 5$ начисляют вам на тесты.  Забираем тут   https://console.typesafe.",
+   "sources_in_export": [
+    {
+     "url": "https://console.typesafe.ai/login",
+     "domain": "console.typesafe.ai",
+     "kind": "other"
+    },
+    {
+     "url": "https://github.com/NandhaKishorM/laya",
+     "domain": "github.com",
+     "kind": "official"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [],
+   "web_verification": null
+  },
+  {
+   "post_id": "237",
+   "date": "21.09.2026",
+   "content_type": "no_source_in_export",
+   "snippet": "Уходить из найма ради стартапа – плохой вариант   Можно начать с малого: запустить свой небольшой IT-проект  Но большинство застревает ещё до запуска: • какую и",
+   "sources_in_export": [],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/+vPiUmmW-DCY1MTMy"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "238",
+   "date": "21.09.2026",
+   "content_type": "no_source_in_export",
+   "snippet": "Красивенький промт в стиле grokbot для ваших юзерпиков, редко делюсь такими штуками, но эти прям супер кьют 🤍    Reinterpret the provided image as a minimalist ",
+   "sources_in_export": [],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/palmosmarket_bot?startapp=ref_829172804",
+    "https://t.me/only_privatka_bot",
+    "https://t.me/+Fl01_JY_aM1kNmMy"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "242",
+   "date": "21.09.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "🤖 ВЫШЕЛ GROK 4.7   Главный упор сделали на написание кода, многочасовые задачи и способность модели самостоятельно проверять свою работу, скорость и базовые цен",
+   "sources_in_export": [
+    {
+     "url": "https://x.com/SpaceXAI/status/2102069815225586149?s=20",
+     "domain": "x.com",
+     "kind": "social_post"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/palmosmarket_bot?startapp=ref_829172804"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "243",
+   "date": "22.09.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "Доброго утра ☀️   Информация подтверждается. Тибо снова написал , что глобальный сброс лимитов будет сегодня.  Как и писал вчера, предварительно ориентируемся п",
+   "sources_in_export": [
+    {
+     "url": "https://x.com/thsottiaux/status/2102254445082116335?s=46",
+     "domain": "x.com",
+     "kind": "social_post"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [],
+   "web_verification": null
+  },
+  {
+   "post_id": "248",
+   "date": "23.09.2026",
+   "content_type": "no_source_in_export",
+   "snippet": "Первые ощущения от GPT-6 Sol приятные : на Plus лимит будто расходуется в 3–4 раза медленнее, чем с GPT-5.6 Sol.  Точных замеров у меня пока нет, но раньше посл",
+   "sources_in_export": [],
+   "referral_or_promo_links": [],
+   "telegram_links": [],
+   "web_verification": {
+    "status": "partial_match",
+    "note": "Название модели в посте (GPT-6 Sol) не совпадает с источниками (GPT-6.1 Sol)",
+    "sources": [
+     "https://techenclave.com/news/items/openai-releases-gpt-6-1-sol-for-codex-chatgpt-work-and-the-api"
+    ]
+   }
+  },
+  {
+   "post_id": "255",
+   "date": "26.09.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "ЕЩЁ ОДИН СБРОС ЛИМИТОВ?   Ночью Codex ненадолго лёг, но уже вернулся к работе. Тибо из команды OpenAI извинился за сбой и пообещал сбросить лимиты всем платным ",
+   "sources_in_export": [
+    {
+     "url": "https://x.com/thsottiaux",
+     "domain": "x.com",
+     "kind": "social_post"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [],
+   "web_verification": null
+  },
+  {
+   "post_id": "260",
+   "date": "29.09.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "CHATGPT PRO ЗА $200 ВЕРНЁТСЯ, НО ЕСТЬ НЮАНС  Тибо написал , что завтра, 30 сентября, OpenAI снова откроет подписку Pro за $200 для новых пользователей. Одноврем",
+   "sources_in_export": [
+    {
+     "url": "https://x.com/thsottiaux/status/2104823812042940713?s=46",
+     "domain": "x.com",
+     "kind": "social_post"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [],
+   "web_verification": null
+  },
+  {
+   "post_id": "263",
+   "date": "29.09.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "Смотрите трансляцию?   https://www.youtube.com/watch?v=Fls_onRviPM             🫡      4            ❤      2            🔥      1            💘      1",
+   "sources_in_export": [
+    {
+     "url": "https://www.youtube.com/watch?v=Fls_onRviPM",
+     "domain": "youtube.com",
+     "kind": "official"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [],
+   "web_verification": null
+  },
+  {
+   "post_id": "264",
+   "date": "29.09.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "OpenAI только что релизнули Dots . > SpaceXAI купила Dot.com который перенаправляет прямо на страницу загрузки Grok Bot. ха ха   вот такая вот херня сэмальтмачк",
+   "sources_in_export": [
+    {
+     "url": "https://t.co/WdFqpl07IQ",
+     "domain": "t.co",
+     "kind": "social_post"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [],
+   "web_verification": null
+  },
+  {
+   "post_id": "272",
+   "date": "02.10.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "Тибо объявил глобальный сброс лимитов для всех платных аккаунтов ChatGPT. Ориентир сегодня, 2 октября, в 20:00 по Москве.   Также извинился за тормоза GPT-6.1 S",
+   "sources_in_export": [
+    {
+     "url": "https://x.com/thsottiaux/status/2105843926221660585",
+     "domain": "x.com",
+     "kind": "social_post"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [],
+   "web_verification": null
+  },
+  {
+   "post_id": "273",
+   "date": "03.10.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "ДОБРОЕ УТРО, ЛИМИТЫ СБРОШЕНЫ   Пока мы спали, Тибо подтвердил , глобальный ресет полностью применён. Так что проверяйте свои аккаунты и можно снова плотно ворка",
+   "sources_in_export": [
+    {
+     "url": "https://x.com/thsottiaux/status/2106131810921136451",
+     "domain": "x.com",
+     "kind": "social_post"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [],
+   "web_verification": null
+  },
+  {
+   "post_id": "276",
+   "date": "04.10.2026",
+   "content_type": "promo_or_tips",
+   "snippet": "КОМУ НУЖНА CANVA PRO?   Еще 450 свободных мест. Залетайте в команду по ссылке, пока места не закончились   Вступить в Canva   Механика такая: переходишь по приг",
+   "sources_in_export": [],
+   "referral_or_promo_links": [
+    "https://www.canva.com/brand/join?token=tRFJfsBYxDw2zfUNCniD1Q&amp;brandingVariant=edu&amp;referrer=team-invite"
+   ],
+   "telegram_links": [
+    "https://t.me/leadvpnbot?start=pref_btjtsk1"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "282",
+   "date": "07.10.2026",
+   "content_type": "no_source_in_export",
+   "snippet": "Второй ресет за день   Празднуем новый максимум 40 млн активных пользователей Codex и ChatGPT Work. Всем платным пользователям добавляют сохранённый/banked ресе",
+   "sources_in_export": [],
+   "referral_or_promo_links": [],
+   "telegram_links": [],
+   "web_verification": {
+    "status": "verified_web",
+    "note": "40 млн активных пользователей Codex и ChatGPT Work подтверждены",
+    "sources": [
+     "https://runtimewire.com/article/openai-codex-chatgpt-work-40-million-users"
+    ]
+   }
+  },
+  {
+   "post_id": "285",
+   "date": "11.10.2026",
+   "content_type": "promo_or_tips",
+   "snippet": "Доброго утречка  чекайте аккаунты, ресет сделан            ❤      9            🥰      3            💘      1",
+   "sources_in_export": [],
+   "referral_or_promo_links": [],
+   "telegram_links": [],
+   "web_verification": null
+  },
+  {
+   "post_id": "289",
+   "date": "13.10.2026",
+   "content_type": "no_source_in_export",
+   "snippet": "Что может быть лучше, чем начинать день с обновлёнными лимитами и безграничными возможностями? Лимиты чатGPT сброшены 🥳   Если у вас проблемы с VPN и у вас нет ",
+   "sources_in_export": [],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/leadvpnbot?start=pref_btjtsk1"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "293",
+   "date": "15.10.2026",
+   "content_type": "promo_or_tips",
+   "snippet": "ДОБРОЕ УТРО, СНОВА РЕСЕТ ☀️   На десятый день нашего адвент-календаря снова сброс лимитов.  Обещает, что ресет докатится в ближайшие два часа. Проверяем аккаунт",
+   "sources_in_export": [],
+   "referral_or_promo_links": [],
+   "telegram_links": [],
+   "web_verification": null
+  },
+  {
+   "post_id": "295",
+   "date": "17.10.2026",
+   "content_type": "no_source_in_export",
+   "snippet": "Пользователь в X накидал идей для следующих обновлений и Тибо пришёл в ответы с коротким: «Работаем над двумя из этих пунктов».  Теперь гадаем, над какими именн",
+   "sources_in_export": [],
+   "referral_or_promo_links": [],
+   "telegram_links": [],
+   "web_verification": null
+  },
+  {
+   "post_id": "297",
+   "date": "17.10.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "Я НИ НА ЧТО НЕ НАМЕКАЮ   → День 6: глобальный сброс лимитов → День 7: без сброса → День 8: глобальный сброс лимитов → День 9: без сброса → День 10: глобальный с",
+   "sources_in_export": [
+    {
+     "url": "https://x.com/thsottiaux/status/2111492673890824348?s=20",
+     "domain": "x.com",
+     "kind": "social_post"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [],
+   "web_verification": null
+  },
+  {
+   "post_id": "300",
+   "date": "20.10.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "✅ Сброс лимитов чатGPT подтвержден   Хорошо идем по статистике ресетов, четко через день, ну почти            ❤      11            👍      1            🔥      1",
+   "sources_in_export": [
+    {
+     "url": "https://x.com/thsottiaux/status/2112432076767289678?s=46",
+     "domain": "x.com",
+     "kind": "social_post"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [],
+   "web_verification": null
+  },
+  {
+   "post_id": "302",
+   "date": "20.10.2026",
+   "content_type": "promo_or_tips",
+   "snippet": "Ребят, если у вас есть тг-премиум, поддержите канал бустом 🤍  Для вас это бесплатно, а каналу поможет открыть больше возможностей.  Буду очень благодарен за под",
+   "sources_in_export": [],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/boost/intelligentsia_ch"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "303",
+   "date": "20.10.2026",
+   "content_type": "no_source_in_export",
+   "snippet": "КАК РЕАЛЬНО ЗАРАБАТЫВАТЬ НА ИИ ? 😯    Каналов про ИИ сейчас развелось настолько много, что половину ленты занимают одни и те же новости.   Вышла новая никому не",
+   "sources_in_export": [],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/addlist/PEvmbznCjKcyYTli"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "306",
+   "date": "21.10.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "ПОДОЖДИТЕ, ЧТО?!  Anthropic только что выкатили ответ OpenAI Dots и Grok Bot, выпустив Claude Duet на базе абсолютного монстра по имени Opus 5.5.  Самое главное",
+   "sources_in_export": [
+    {
+     "url": "https://x.com/claudeai/status/2112984664256241837?s=46",
+     "domain": "x.com",
+     "kind": "social_post"
+    },
+    {
+     "url": "https://claude.com/product/claude-duet",
+     "domain": "claude.com",
+     "kind": "official"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/only_privatka_bot",
+    "https://t.me/+Fl01_JY_aM1kNmMy",
+    "https://t.me/thehermesex?text=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!%20%D0%AF%20%D0%BE%D1%82%20%D0%B8%D0%B8%D0%BD%D1%82%D0%B5%D0%BB%D0%BB%D0%B8%D0%B3%D0%B5%D0%BD%D1%86%D0%B8%D1%8F%20"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "308",
+   "date": "22.10.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "17-й день марафона, и снова сброс лимитов Codex. Обещает провести его завтра до 20:00 по МСК.  кто-там на дорогих тарифах, вы как этот месяц успеваете лимиты сж",
+   "sources_in_export": [
+    {
+     "url": "https://x.com/thsottiaux/status/2113162277688070445?s=20",
+     "domain": "x.com",
+     "kind": "social_post"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [],
+   "web_verification": null
+  },
+  {
+   "post_id": "309",
+   "date": "22.10.2026",
+   "content_type": "promo_or_tips",
+   "snippet": "Статью про заработок на ИИ ещё дописываем, свою часть тоже готовлю.    Через 2 часа закрываем регистрацию в боте.   Если хотите получить материал, успейте запис",
+   "sources_in_export": [],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/howtoearnfromvibecodingbot?start=writercrypto2"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "311",
+   "date": "22.10.2026",
+   "content_type": "no_source_in_export",
+   "snippet": "Чуть раньше обещанного, примерно на сутки : Ресет, продолжаем ворк 🔥             ❤      9            👍      1            🔥      1",
+   "sources_in_export": [],
+   "referral_or_promo_links": [],
+   "telegram_links": [],
+   "web_verification": null
+  },
+  {
+   "post_id": "312",
+   "date": "22.10.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "ПРОДОЛЖАЮ ЭКСПЕРИМЕНТЫ С МОУШН-ВИДЕО  На этот раз попробовал формат стики зондбе-апокалипсиса. Сделал два ролика для своего YouTube и хочу показать вам, что пол",
+   "sources_in_export": [
+    {
+     "url": "https://youtu.be/nnAWhMMDepg?si=J4IUx1GceEET0-wO",
+     "domain": "youtu.be",
+     "kind": "official"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/leadvpnbot?start=pref_btjtsk1"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "314",
+   "date": "23.10.2026",
+   "content_type": "promo_or_tips",
+   "snippet": "Второй devday за этот год, на этот раз китайский   Вы еще не удалили ZCode? В честь праздничка бесплатно раздают 500 миллионов токенов для моделей GLM-5.3 и GLM",
+   "sources_in_export": [
+    {
+     "url": "https://x.com/zcode_ai/status/2113625666067611812",
+     "domain": "x.com",
+     "kind": "social_post"
+    }
+   ],
+   "referral_or_promo_links": [
+    "https://zcode.z.ai/invite/D9JRLUQH"
+   ],
+   "telegram_links": [
+    "https://t.me/+Fl01_JY_aM1kNmMy"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "315",
+   "date": "25.10.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "Тибо поругался в твиттере с директором по ии меты   В X шутят, после перепалки Тибо с Лорен мы получили девять ресетов и кучу обновлений. Теперь он сцепился с А",
+   "sources_in_export": [
+    {
+     "url": "https://x.com/alexandr_wang/status/2114091409485828200?s=46",
+     "domain": "x.com",
+     "kind": "social_post"
+    },
+    {
+     "url": "https://x.com/thsottiaux/status/2114200152701575656?s=46",
+     "domain": "x.com",
+     "kind": "social_post"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [],
+   "web_verification": null
+  },
+  {
+   "post_id": "318",
+   "date": "26.10.2026",
+   "content_type": "promo_or_tips",
+   "snippet": "Акция Gemini Pro 18 мес. заканчивается 29 октября   Считаю, что это важный повод напомнить вам про подписку и наш маркет. Большая часть из вас уже наслышана о G",
+   "sources_in_export": [],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/palmosmarket_bot?startapp=ref_829172804_product_2"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "323",
+   "date": "29.10.2026",
+   "content_type": "promo_or_tips",
+   "snippet": "Зачем страдать на работе в одиночку   Когда можно переложить часть задач на нейросетку 😎  Платные версии почти не хуже джунов — а на FunPay они ещё и дешёвые:  ",
+   "sources_in_export": [],
+   "referral_or_promo_links": [
+    "https://funpay.com/go/iintelligentsia"
+   ],
+   "telegram_links": [],
+   "web_verification": null
+  },
+  {
+   "post_id": "327",
+   "date": "31.10.2026",
+   "content_type": "promo_or_tips",
+   "snippet": "OpenAI официально даст нам два накопленных сброса.  Это, вероятно, к релизу новой модели.            ❤      10            🔥      3",
+   "sources_in_export": [],
+   "referral_or_promo_links": [],
+   "telegram_links": [],
+   "web_verification": null
+  }
+ ]
+}

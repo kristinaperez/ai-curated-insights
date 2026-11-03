@@ -1,0 +1,187 @@
+{
+  "competitor": "Вайбкодер (t.me/+_8QG__l66_UwYjUy)",
+  "type": "telegram_channel_vibecoding_news_and_tools",
+  "analysed_on": "2026-11-03",
+  "export_source": "Telegram Desktop export, messages.html, 152 messages, 91 with text",
+  "summary": {
+    "posts_with_text": 91,
+    "news_or_info_linked": 49,
+    "promo_or_tips": 31,
+    "no_source_in_export": 11
+  },
+  "how_they_source_news": [
+    "Официальные анонсы компаний: claude.com, claude.dev, openai.com, developers.openai.com, chatgpt.com, aistudio.google.com, download.deepseek.com",
+    "GitHub-репозитории: основной источник инструментов и скиллов (64 ссылки)",
+    "Крупные СМИ: Reuters, Ведомости, TechCrunch",
+    "Посты в X от разработчиков и исследователей",
+    "Часть новостей без источника (11 постов), в т.ч. про блокировки по паспорту и русский язык Claude"
+  ],
+  "top_domains_in_export": [
+    [
+      "github.com",
+      60
+    ],
+    [
+      "x.com",
+      5
+    ],
+    [
+      "claude.com",
+      3
+    ],
+    [
+      "openai.com",
+      3
+    ],
+    [
+      "download.deepseek.com",
+      2
+    ],
+    [
+      "claude.dev",
+      2
+    ],
+    [
+      "vedomosti.ru",
+      1
+    ],
+    [
+      "aistudio.google.com",
+      1
+    ],
+    [
+      "reuters.com",
+      1
+    ],
+    [
+      "techcrunch.com",
+      1
+    ],
+    [
+      "code.claude.com",
+      1
+    ],
+    [
+      "developers.openai.com",
+      1
+    ],
+    [
+      "kimi.ai",
+      1
+    ],
+    [
+      "chatgpt.com",
+      1
+    ],
+    [
+      "telegram.me",
+      1
+    ]
+  ],
+  "courses_seen": [
+    {
+      "date": "2026-10-11",
+      "post": "#70",
+      "name": "503 урока по AI Engineering",
+      "provider": "aiengineeringfromscratch.com",
+      "price": "бесплатно",
+      "url": "https://aiengineeringfromscratch.com/"
+    },
+    {
+      "date": "2026-10-12",
+      "post": "#72",
+      "name": "Мегакурс по Claude Code",
+      "provider": "GitHub: wesammustafa",
+      "price": "бесплатно",
+      "url": "https://github.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know"
+    },
+    {
+      "date": "2026-10-21",
+      "post": "#93",
+      "name": "Курс Claude Code из 12 модулей",
+      "provider": "GitHub: justxor",
+      "price": "бесплатно",
+      "url": "https://github.com/justxor/claude-code-pro-course"
+    },
+    {
+      "date": "2026-10-26",
+      "post": "#103",
+      "name": "Персональные мини-курсы через Claude (claudemy)",
+      "provider": "GitHub: assafkip",
+      "price": "инструмент",
+      "url": "https://github.com/assafkip/claudemy"
+    },
+    {
+      "date": "2026-10-14",
+      "post": "#76",
+      "name": "Бесплатный гайд по автоматизациям на Claude",
+      "provider": "Anthropic (claude.dev)",
+      "price": "бесплатно",
+      "url": "https://claude.dev/blog/building-effective-agent-automations/"
+    },
+    {
+      "date": "2026-10-04",
+      "post": "#52",
+      "name": "Практический гайд по GPT-6",
+      "provider": "OpenAI",
+      "price": "бесплатно",
+      "url": "http://openai.com/index/practical-guide-building-gpt-6"
+    },
+    {
+      "date": "2026-10-20",
+      "post": "#91",
+      "name": "Рефакторинг кода через GPT-6",
+      "provider": "OpenAI (developers.openai.com)",
+      "price": "бесплатно",
+      "url": "https://developers.openai.com/blog/maintaining-software-with-the-gpt-6-family"
+    }
+  ],
+  "funnels_seen": [
+    {
+      "post": "#7",
+      "date": "2026-09-17",
+      "type": "Подборка-дайджест",
+      "flow": "Список 13 материалов со ссылками на посты в закрытом канале t.me/c/3611284226 → вступление в закрытый канал"
+    },
+    {
+      "post": "#79, #88, #97, #109",
+      "date": "2026-10",
+      "type": "Мем + подписка",
+      "flow": "Смешной пост → подпись «Вайбкодер — подписаться»"
+    },
+    {
+      "post": "#70, #72, #103",
+      "date": "2026-10",
+      "type": "Бесплатный курс → призыв",
+      "flow": "Ценность (список уроков) → «Забираем курс — тут» / «Прокачиваемся — здесь»"
+    },
+    {
+      "post": "#113",
+      "date": "2026-10-30",
+      "type": "Страх → инструмент с UTM",
+      "flow": "Новость про блокировку Claude для россиян по паспорту → ссылка на catcode.dev с utm_campaign=seeding"
+    },
+    {
+      "post": "#110",
+      "date": "2026-10-29",
+      "type": "Перекрёстная реклама",
+      "flow": "Тема зарплат в IT → приглашение в другой чат (t.me/+84BFLy…)"
+    },
+    {
+      "post": "#116",
+      "date": "2026-10-31",
+      "type": "Реклама бота",
+      "flow": "Конструктор ботов поддержки → инвайт-ссылка бота"
+    },
+    {
+      "post": "#27",
+      "date": "2026-09-25",
+      "type": "Бонус-крючок",
+      "flow": "«Anthropic раздаёт до $250» → claim-ссылка на claude.ai (до 7 октября)"
+    }
+  ],
+  "risks": [
+    "utm_campaign=seeding в посте про блокировку по паспорту: продукт продаётся как обход верификации, возможно нарушение правил сервиса",
+    "#49 и #111: «спасаемся от бана» и «спасаем аккаунт» — нарушение правил Anthropic, прямых ссылок нет"
+  ]
+}

@@ -1,0 +1,1662 @@
+{
+ "channel": "Вайбкодер",
+ "type": "telegram_channel_vibecoding_news_and_tools",
+ "source": "Telegram Desktop export (messages.html), 152 messages",
+ "built_on": "2026-11-03",
+ "count": 91,
+ "posts": [
+  {
+   "post_id": "5",
+   "date": "17.09.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "Cloudflare выложили в опенсорс скилл , который превращает агента в безопасника 😎   Security Audit Skill превращает любого кодинг-агента в security-аудитора: шес",
+   "sources_in_export": [
+    {
+     "url": "https://github.com/cloudflare/security-audit-skill",
+     "domain": "github.com",
+     "kind": "official"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/+_8QG__l66_UwYjUy"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "7",
+   "date": "17.09.2026",
+   "content_type": "promo_or_tips",
+   "snippet": "📌 Подборка материалов для вайбкодинга    ➖ Как спастись от бана аккаунта Claude Code?   ➖ Сборка для Claude от победителя хакатона Anthropic   ➖ Маркетплейс на ",
+   "sources_in_export": [],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/c/3611284226/49",
+    "https://t.me/c/3611284226/55",
+    "https://t.me/c/3611284226/16",
+    "https://t.me/c/3611284226/25",
+    "https://t.me/c/3611284226/27",
+    "https://t.me/c/3611284226/29",
+    "https://t.me/c/3611284226/31",
+    "https://t.me/c/3611284226/39",
+    "https://t.me/c/3611284226/42",
+    "https://t.me/c/3611284226/44",
+    "https://t.me/c/3611284226/51",
+    "https://t.me/c/3611284226/53",
+    "https://t.me/c/3611284226/57",
+    "https://t.me/c/3611284226/73",
+    "https://t.me/c/3611284226/61"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "8",
+   "date": "17.09.2026",
+   "content_type": "promo_or_tips",
+   "snippet": "🤣 Наконец-то реалистичный симулятор вайбкодинга     Задача «простая»: сделать кнопку Add to Cart синей и больше ничего не менять.  Но проблемы начинаются дальше",
+   "sources_in_export": [],
+   "referral_or_promo_links": [
+    "https://opusfived.dev/"
+   ],
+   "telegram_links": [
+    "https://t.me/+_8QG__l66_UwYjUy"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "9",
+   "date": "18.09.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "😱 GPT-6 Astra не отказывается втыкать нож в куклу, похожую на человека — показало новое исследование   Исследователи подключили GPT-6 Astra, Fable 5.1 и MolmoAc",
+   "sources_in_export": [
+    {
+     "url": "https://x.com/chooi_jeq/status/2101118049944543545?s=46",
+     "domain": "x.com",
+     "kind": "social_post"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/+_8QG__l66_UwYjUy"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "11",
+   "date": "18.09.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "Годнота для создания ИИ-агентов — в MWS AI Agents Platform завезли мощный апдейт    Новая обнова позволяет:  – Запускать код в изолированной песочнице; – Давать",
+   "sources_in_export": [
+    {
+     "url": "https://www.vedomosti.ru/technologies/industries_and_markets/news/2026/09/16/1229356-dlya-ii-agentov",
+     "domain": "vedomosti.ru",
+     "kind": "press"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/+_8QG__l66_UwYjUy"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "12",
+   "date": "19.09.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "🧠 Google учит вайбкодеров нормальному UI   Компания выкатила гайд , в котором собраны: 8 советов по дизайну, типографика и работа с цветом, разборы отдельных ко",
+   "sources_in_export": [
+    {
+     "url": "https://aistudio.google.com/learn/ai-ui-design-google-ai-studio",
+     "domain": "aistudio.google.com",
+     "kind": "official"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/+_8QG__l66_UwYjUy"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "14",
+   "date": "19.09.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "🎉 Имбовое обновление для фанатов Anthropic   Cowork, Design и обычный чат объединяют — больше не придётся выбирать режим вручную. Claude сам поймёт задачу и под",
+   "sources_in_export": [
+    {
+     "url": "https://claude.com/blog/cowork-is-now-claude",
+     "domain": "claude.com",
+     "kind": "official"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/+_8QG__l66_UwYjUy"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "15",
+   "date": "19.09.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "💬 Anthropic хотят уничтожить Astra — компания готовится релизнуть новую, сверхмощную модель  По словам источников, прямо сейчас компания тестирует безопасность ",
+   "sources_in_export": [
+    {
+     "url": "https://www.reuters.com/business/anthropic-considers-releasing-new-ai-model-ahead-ipo-sources-say-2026-09-19/",
+     "domain": "reuters.com",
+     "kind": "press"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/+_8QG__l66_UwYjUy"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "16",
+   "date": "20.09.2026",
+   "content_type": "promo_or_tips",
+   "snippet": "Маркетплейс на 3 млн скиллов для Claude и Codex   На SkillsMP собрали огромную коллекцию готовых навыков: разработка, DevOps, дизайн, аналитика, маркетинг — выб",
+   "sources_in_export": [],
+   "referral_or_promo_links": [
+    "https://skillsmp.com/"
+   ],
+   "telegram_links": [
+    "https://t.me/+_8QG__l66_UwYjUy"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "18",
+   "date": "21.09.2026",
+   "content_type": "no_source_in_export",
+   "snippet": "💬 Claude Code наконец научился читать AGENTS.md   Начиная с версии 2.1.277, Claude Code по умолчанию сначала ищет AGENTS.md , а если его нет — откатывается к пр",
+   "sources_in_export": [],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/+_8QG__l66_UwYjUy"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "19",
+   "date": "22.09.2026",
+   "content_type": "promo_or_tips",
+   "snippet": "MCP для агентов, который рисует качественный дизайн   Inspo подбирает подходящие референсы из более чем 800 сайтов, передаёт их в Claude Code или Codex и на их ",
+   "sources_in_export": [],
+   "referral_or_promo_links": [
+    "https://inspomcp.dev/"
+   ],
+   "telegram_links": [
+    "https://t.me/+_8QG__l66_UwYjUy"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "20",
+   "date": "22.09.2026",
+   "content_type": "promo_or_tips",
+   "snippet": "🦀 Anthropic выпустили Claude Opus 5.5   Новый Opus выбил 66% на Terminal-Bench 4.0, обогнав GPT-6 Astra и Fable 5.1.  И при этом модель ещё и на 20% дешевле.   ",
+   "sources_in_export": [],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/+_8QG__l66_UwYjUy"
+   ],
+   "web_verification": {
+    "status": "partial_match",
+    "note": "Релиз Opus 5.5 подтверждён (22.09); 66% Terminal-Bench — цифра из теста самой Anthropic",
+    "sources": [
+     "https://mixed-news.com/en/?p=32220",
+     "https://www.vellum.ai/blog/claude-opus-5-5-benchmarks-explained"
+    ]
+   }
+  },
+  {
+   "post_id": "21",
+   "date": "23.09.2026",
+   "content_type": "promo_or_tips",
+   "snippet": "💬 Мод для экономии токенов в Claude Code   Появился инструмент, который не грузит все скиллы в контекст сразу. Jev выбирает только нужный навык под конкретный з",
+   "sources_in_export": [],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/+_8QG__l66_UwYjUy"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "22",
+   "date": "23.09.2026",
+   "content_type": "no_source_in_export",
+   "snippet": "🤖 OpenAI вслед за Anthropic выкатила GPT-6 Sol и Luna   Sol заточена под кодинг и агентов, Luna — под скорость и минимальную цену. Цены в API снизили на 50%, а ",
+   "sources_in_export": [],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/+_8QG__l66_UwYjUy"
+   ],
+   "web_verification": {
+    "status": "verified_web",
+    "note": "Запуск GPT-6 Sol и Luna подтверждён (TechCrunch, 22.09)",
+    "sources": [
+     "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/"
+    ]
+   }
+  },
+  {
+   "post_id": "25",
+   "date": "24.09.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "🤔 Скилл для «болтливого» агента    i-have-adhd — инструмент, который полностью меняет стиль ответов агента.   Фразы типа «Отличный вопрос, сейчас разберёмся» ил",
+   "sources_in_export": [
+    {
+     "url": "https://github.com/ayghri/i-have-adhd",
+     "domain": "github.com",
+     "kind": "official"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/+_8QG__l66_UwYjUy"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "26",
+   "date": "24.09.2026",
+   "content_type": "promo_or_tips",
+   "snippet": "🤩 Подгон для Claude Code и Codex: 7 скиллов, которые делают агентов понятнее   Они объясняют, что агент реально сделал, всё ли закончено, где остался техдолг, ч",
+   "sources_in_export": [
+    {
+     "url": "https://github.com/kharmanskyi/open-steps",
+     "domain": "github.com",
+     "kind": "official"
+    }
+   ],
+   "referral_or_promo_links": [
+    "https://opensteps.ai/"
+   ],
+   "telegram_links": [
+    "https://t.me/+_8QG__l66_UwYjUy"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "27",
+   "date": "25.09.2026",
+   "content_type": "promo_or_tips",
+   "snippet": "🎉 Anthropic раздаёт до $250 на Claude Code   Подписчикам Pro дают $100, Max — $250 на облачные сессии Claude Code.  Теперь агент может продолжать работу даже по",
+   "sources_in_export": [],
+   "referral_or_promo_links": [
+    "https://claude.ai/code/claim-credit/10"
+   ],
+   "telegram_links": [
+    "https://t.me/+_8QG__l66_UwYjUy"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "28",
+   "date": "25.09.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "🐳 DeepSeek Harness теперь можно ставить как обычное приложение   Вышел официальный десктопный клиент агентной среды DeepSeek — для обычного запуска больше не ну",
+   "sources_in_export": [
+    {
+     "url": "https://download.deepseek.com/dsh-desk/bin/win-x64/deepseek-harness-0.1.7-rc.1.20260924.1-win-x64.exe",
+     "domain": "download.deepseek.com",
+     "kind": "official"
+    },
+    {
+     "url": "https://download.deepseek.com/dsh-desk/bin/mac-arm64/deepseek-harness-0.1.7-rc.1.20260924.1-mac-arm64.dmg",
+     "domain": "download.deepseek.com",
+     "kind": "official"
+    },
+    {
+     "url": "https://github.com/deepseek-ai/deepseek-harness/blob/master/apps/desktop/README.zh.md",
+     "domain": "github.com",
+     "kind": "official"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/+_8QG__l66_UwYjUy"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "29",
+   "date": "26.09.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "🦀 5 плагинов для Claude Code, которые стоит попробовать   1. OmniRoute — почти безлимитные токены  Роутер между Claude Code и сотнями AI-моделей, включая беспла",
+   "sources_in_export": [
+    {
+     "url": "https://github.com/diegosouzapw/OmniRoute",
+     "domain": "github.com",
+     "kind": "official"
+    },
+    {
+     "url": "https://github.com/headroomlabs-ai/headroom",
+     "domain": "github.com",
+     "kind": "official"
+    },
+    {
+     "url": "https://github.com/thedotmack/claude-mem",
+     "domain": "github.com",
+     "kind": "official"
+    },
+    {
+     "url": "https://github.com/anthropics/claude-plugins-official",
+     "domain": "github.com",
+     "kind": "official"
+    },
+    {
+     "url": "https://github.com/rebelytics/one-skill-to-rule-them-all",
+     "domain": "github.com",
+     "kind": "official"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/+_8QG__l66_UwYjUy"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "30",
+   "date": "26.09.2026",
+   "content_type": "no_source_in_export",
+   "snippet": "💬 Claude Code больше не будет обрываться посреди задачи   Если 5-часовой лимит закончится во время работы, агент получит небольшой запас из недельного лимита, ч",
+   "sources_in_export": [],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/+_8QG__l66_UwYjUy"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "31",
+   "date": "27.09.2026",
+   "content_type": "promo_or_tips",
+   "snippet": "👋 5 сайтов, которые изменят вашу вайбкодерскую жизнь   1. AnimeJS   Анимации на любой вкус: CSS, SVG, DOM, таймлайны, stagger-эффекты, spring-физика. На сайте е",
+   "sources_in_export": [],
+   "referral_or_promo_links": [
+    "https://animejs.com/",
+    "https://motion.dev/",
+    "https://kokonutui.com/",
+    "https://bklit.com/",
+    "https://manus.im/"
+   ],
+   "telegram_links": [
+    "https://t.me/+_8QG__l66_UwYjUy"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "35",
+   "date": "27.09.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "👨‍💻 Одна команда и Claude Code сам вычистит весь мусор из ваших промптов   Разраб из Anthropic посоветовал запускать /claude-api-prompt-audit .  Claude сам пров",
+   "sources_in_export": [
+    {
+     "url": "https://x.com/rlancemartin/status/2102575471502528989?s=46",
+     "domain": "x.com",
+     "kind": "social_post"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/+_8QG__l66_UwYjUy"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "37",
+   "date": "28.09.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "Забирайте open-source замену ElevenLabs 🎙    VoiceStudio умеет озвучивать текст, делать дубляж видео и транскрибировать аудио. Поддерживает 646 языков, 16 движк",
+   "sources_in_export": [
+    {
+     "url": "https://github.com/debpalash/VoiceStudio",
+     "domain": "github.com",
+     "kind": "official"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/+_8QG__l66_UwYjUy"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "38",
+   "date": "28.09.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "🫣 Один скилл Claude Code и ваш проект сам превращается в промо-ролик   Он читает репозиторий, сам решает, какие фичи показать, придумывает подачу и собирает кор",
+   "sources_in_export": [
+    {
+     "url": "https://github.com/latent-spaces/brag",
+     "domain": "github.com",
+     "kind": "official"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/+_8QG__l66_UwYjUy"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "39",
+   "date": "29.09.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "🔥 Проект с почти безлимитным доступом к ИИ    OmniRoute — роутер между Claude Code и сотнями AI-моделей, включая бесплатные. Если у одной закончился лимит, можн",
+   "sources_in_export": [
+    {
+     "url": "https://github.com/diegosouzapw/OmniRoute",
+     "domain": "github.com",
+     "kind": "official"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/+_8QG__l66_UwYjUy"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "41",
+   "date": "29.09.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "💬 Вышла Claude Sonnet 5.5 — и Anthropic сразу показала, как выжать из неё максимум   Новая Sonnet работает примерно на 30% быстрее и в терминальном кодинге пока",
+   "sources_in_export": [
+    {
+     "url": "https://claude.dev/blog/building-with-claude-sonnet-5-5/",
+     "domain": "claude.dev",
+     "kind": "official"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/+_8QG__l66_UwYjUy"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "42",
+   "date": "30.09.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "Плагин, который даёт Claude Code долгосрочную память 🧠    claude-mem — модуль, который помнит предыдущие сессии и автоматически подтягивает контекст, чтобы не о",
+   "sources_in_export": [
+    {
+     "url": "https://github.com/thedotmack/claude-mem",
+     "domain": "github.com",
+     "kind": "official"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/+_8QG__l66_UwYjUy"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "43",
+   "date": "30.09.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "🤖 Коротко про OpenAI DevDay: за один вечер выкатила почти весь AI-стек   На вчерашнем DevDay показали Dots, ChatGPT Space, GPT-6.1 Sol, Codex Cloud, Decisions A",
+   "sources_in_export": [
+    {
+     "url": "https://openai.com/ru-RU/live/",
+     "domain": "openai.com",
+     "kind": "official"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/+_8QG__l66_UwYjUy"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "44",
+   "date": "01.10.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "💬 4 плагина Claude Code для экономии токенов   1. CodeBurn   Он показывает, на что именно уходят твои токены: расходы разбиты по задачам, моделям и инструментам",
+   "sources_in_export": [
+    {
+     "url": "https://github.com/getagentseal/codeburn",
+     "domain": "github.com",
+     "kind": "official"
+    },
+    {
+     "url": "https://github.com/headroomlabs-ai/headroom",
+     "domain": "github.com",
+     "kind": "official"
+    },
+    {
+     "url": "https://github.com/DietrichGebert/ponytail",
+     "domain": "github.com",
+     "kind": "official"
+    },
+    {
+     "url": "https://github.com/Graphify-Labs/graphify",
+     "domain": "github.com",
+     "kind": "official"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/+_8QG__l66_UwYjUy"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "45",
+   "date": "01.10.2026",
+   "content_type": "promo_or_tips",
+   "snippet": "😎 Превращаем AI-агента в полноценного геймдева   Автор выложил 17 скиллов для разработки игр на Three.js. Они закрывают почти весь цикл: камера, уровни, враги, ",
+   "sources_in_export": [
+    {
+     "url": "https://x.com/mengto/status/2080915786206789733?s=46",
+     "domain": "x.com",
+     "kind": "social_post"
+    },
+    {
+     "url": "https://github.com/MengTo/Skills/blob/main/agent-skills/game-development/README.md",
+     "domain": "github.com",
+     "kind": "official"
+    }
+   ],
+   "referral_or_promo_links": [
+    "https://vesperfall.mengto.chatgpt.site/"
+   ],
+   "telegram_links": [
+    "https://t.me/+_8QG__l66_UwYjUy"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "46",
+   "date": "02.10.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "🐋 DeepSeek открыла свой фреймворк для coding-агентов    deepseek-harness — open-source фреймворк для программирования с агентами, где почти всё построено на пла",
+   "sources_in_export": [
+    {
+     "url": "https://github.com/deepseek-ai/deepseek-harness",
+     "domain": "github.com",
+     "kind": "official"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/+_8QG__l66_UwYjUy"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "48",
+   "date": "02.10.2026",
+   "content_type": "no_source_in_export",
+   "snippet": "🎉 Лайфхак для Claude Code: узнайте, насколько хорошо вы вообще умеете им пользоваться   Команда /insights анализирует до 200 ваших сессий и собирает отчёт с пов",
+   "sources_in_export": [],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/+_8QG__l66_UwYjUy"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "49",
+   "date": "03.10.2026",
+   "content_type": "promo_or_tips",
+   "snippet": "😍 Спасаемся от бана Claude — энтузиасты нашли мета-данные, по которым вас блокируют  В метаданных Claude найдены несколько зацепок, которые могут помочь снизить",
+   "sources_in_export": [],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/+_8QG__l66_UwYjUy"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "50",
+   "date": "03.10.2026",
+   "content_type": "promo_or_tips",
+   "snippet": "Выбор моделей наглядно 😁    Вайбкодер — подписаться             😁      10            🤣      4            💯      2            ❤      1            👍      1",
+   "sources_in_export": [],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/+_8QG__l66_UwYjUy"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "51",
+   "date": "04.10.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "🔥 5 мастхэв-скиллов для Claude   1. Marketing Skills   Маркетинговое агентство внутри Claude: SEO, реклама, копирайтинг, стратегия, аналитика и креативы. Полезн",
+   "sources_in_export": [
+    {
+     "url": "https://github.com/coreyhaines31/marketingskills",
+     "domain": "github.com",
+     "kind": "official"
+    },
+    {
+     "url": "https://github.com/hardikpandya/stop-slop",
+     "domain": "github.com",
+     "kind": "official"
+    },
+    {
+     "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+     "domain": "github.com",
+     "kind": "official"
+    },
+    {
+     "url": "https://github.com/remotion-dev/skills",
+     "domain": "github.com",
+     "kind": "official"
+    },
+    {
+     "url": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering",
+     "domain": "github.com",
+     "kind": "official"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/+_8QG__l66_UwYjUy"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "52",
+   "date": "04.10.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "🤖 OpenAI выложила официальный гайд по GPT-6: Astra, Sol и Luna   Внутри ответы почти на все вопросы: какую модель выбирать, как настраивать reasoning, писать но",
+   "sources_in_export": [
+    {
+     "url": "http://openai.com/index/practical-guide-building-gpt-6",
+     "domain": "openai.com",
+     "kind": "official"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/+_8QG__l66_UwYjUy"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "53",
+   "date": "05.10.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "😮 FreeLLMApi: забираем бесплатные тарифы нейронок в одном месте   Один раз добавляете ключи провайдеров, а дальше роутер сам выбирает модель, следит за квотами ",
+   "sources_in_export": [
+    {
+     "url": "https://github.com/tashfeenahmed/freellmapi",
+     "domain": "github.com",
+     "kind": "official"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/+_8QG__l66_UwYjUy"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "54",
+   "date": "05.10.2026",
+   "content_type": "promo_or_tips",
+   "snippet": "Хотели бы такую фичу?)   Вайбкодер — подписаться             😁      8            🔥      5            🤣      4            👍      2            💯      2",
+   "sources_in_export": [],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/+_8QG__l66_UwYjUy"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "55",
+   "date": "06.10.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "🏆 ECC — сборка Claude Code от победителя хакатона Anthropic   Аффан Мустафа выиграл хакатон Anthropic в Нью-Йорке, собрав за 8 часов AI-продукт. Сборка, с помощ",
+   "sources_in_export": [
+    {
+     "url": "https://github.com/affaan-m/ECC",
+     "domain": "github.com",
+     "kind": "official"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/+_8QG__l66_UwYjUy"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "56",
+   "date": "06.10.2026",
+   "content_type": "promo_or_tips",
+   "snippet": "🐸 Собираем собственную дизайн-систему для Claude Code и Codex   В Initium выбираете пресет и руками настраиваете визуал: шрифты, цвета, скругления, кнопки и фор",
+   "sources_in_export": [],
+   "referral_or_promo_links": [
+    "https://app.initium.sh/"
+   ],
+   "telegram_links": [
+    "https://t.me/+_8QG__l66_UwYjUy"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "57",
+   "date": "07.10.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "🎨 3 плагина, чтобы Claude делал красивые сайты   1. Emil Kowalski Skills   Этот человек обучил тысячи разработчиков создавать уникальные анимации для сайтов. Ег",
+   "sources_in_export": [
+    {
+     "url": "https://github.com/emilkowalski/skills",
+     "domain": "github.com",
+     "kind": "official"
+    },
+    {
+     "url": "https://github.com/Leonxlnx/taste-skill",
+     "domain": "github.com",
+     "kind": "official"
+    },
+    {
+     "url": "https://github.com/pbakaus/impeccable",
+     "domain": "github.com",
+     "kind": "official"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/+_8QG__l66_UwYjUy"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "58",
+   "date": "07.10.2026",
+   "content_type": "no_source_in_export",
+   "snippet": "🥳 НАКОНЕЦ-ТО в Claude добавили русский язык   Anthropic начала раскатывать полноценный перевод интерфейса: меню и основные элементы теперь доступны на русском, ",
+   "sources_in_export": [],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/+_8QG__l66_UwYjUy"
+   ],
+   "web_verification": {
+    "status": "verified_web",
+    "note": "Русский язык в интерфейсе Claude подтверждён (CyberSport, Techora, 06.10)",
+    "sources": [
+     "https://cybersport.metaratings.ru/news/v-claude-poyavilsya-russkij-yazyk-anthropic-lokalizovala-interfejs-nejroseti/",
+     "https://techora.ru/news/claude-nachal-otvechat-na-russkom-yazyke-2026-10-06"
+    ]
+   }
+  },
+  {
+   "post_id": "59",
+   "date": "08.10.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "📹 5 скиллов, которые превратят Claude Code в мастера монтажа   1. HyperFrames   Клод пишет обычную веб-страницу, а на выходе вы получаете готовый ролик. Подходи",
+   "sources_in_export": [
+    {
+     "url": "https://github.com/heygen-com/hyperframes",
+     "domain": "github.com",
+     "kind": "official"
+    },
+    {
+     "url": "https://github.com/remotion-dev/skills",
+     "domain": "github.com",
+     "kind": "official"
+    },
+    {
+     "url": "https://github.com/Leonxlnx/taste-skill",
+     "domain": "github.com",
+     "kind": "official"
+    },
+    {
+     "url": "https://github.com/pbakaus/impeccable",
+     "domain": "github.com",
+     "kind": "official"
+    },
+    {
+     "url": "https://github.com/emilkowalski/skills",
+     "domain": "github.com",
+     "kind": "official"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/+_8QG__l66_UwYjUy"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "60",
+   "date": "08.10.2026",
+   "content_type": "promo_or_tips",
+   "snippet": "🎮 Бесплатная AI-студия для создания игр   Вышло десктопное приложение, где несколько агентов параллельно пишут код, создают уровни и ассеты, а AI-судьи проверяю",
+   "sources_in_export": [],
+   "referral_or_promo_links": [
+    "https://genex.games/desktop"
+   ],
+   "telegram_links": [
+    "https://t.me/+_8QG__l66_UwYjUy"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "61",
+   "date": "09.10.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "🤯 Клонируем любое приложение за один вечер — на GitHub выложили набор из 11 скиллов для Claude, который делает это под ключ  Репозиторий replica-skill — это цел",
+   "sources_in_export": [
+    {
+     "url": "https://github.com/Jakeschincariol/replica-skill",
+     "domain": "github.com",
+     "kind": "official"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/+_8QG__l66_UwYjUy"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "64",
+   "date": "09.10.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "🤖 ChatGPT переехал на GPT-6   С новой Intelligent UI модель сама решает, как лучше ответить: текстом, графиком, формой, интерактивной схемой, калькулятором или ",
+   "sources_in_export": [
+    {
+     "url": "https://openai.com/ru-RU/index/gpt-6-for-everyone/",
+     "domain": "openai.com",
+     "kind": "official"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/+_8QG__l66_UwYjUy"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "65",
+   "date": "10.10.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "🎉 5 скиллов для Claude, заменяющие целую команду    1. Humanizer — скилл-редактор: вычищает типичные шаблоны ИИ-текста, чтобы написанное звучало по-человечески.",
+   "sources_in_export": [
+    {
+     "url": "https://github.com/blader/humanizer",
+     "domain": "github.com",
+     "kind": "official"
+    },
+    {
+     "url": "https://github.com/anthropics/skills",
+     "domain": "github.com",
+     "kind": "official"
+    },
+    {
+     "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+     "domain": "github.com",
+     "kind": "official"
+    },
+    {
+     "url": "https://github.com/coreyhaines31/marketingskills",
+     "domain": "github.com",
+     "kind": "official"
+    },
+    {
+     "url": "https://github.com/mvanhorn/last30days-skill",
+     "domain": "github.com",
+     "kind": "official"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/+_8QG__l66_UwYjUy"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "66",
+   "date": "10.10.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "😨 ИМБА — база по Claude Code в одном репозитории   Внутри:  🫡 Команды и настройки Claude Code; 🫡 MCP и подключение инструментов; 🫡 Контекст, память и CLAUDE.md;",
+   "sources_in_export": [
+    {
+     "url": "https://github.com/thevibeworks/claude-code-docs",
+     "domain": "github.com",
+     "kind": "official"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/+_8QG__l66_UwYjUy"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "68",
+   "date": "11.10.2026",
+   "content_type": "promo_or_tips",
+   "snippet": "Собрали лучших 😁    Вайбкодер — подписаться             😁      18            ❤      3            👍      2            💯      2",
+   "sources_in_export": [],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/+_8QG__l66_UwYjUy"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "70",
+   "date": "11.10.2026",
+   "content_type": "promo_or_tips",
+   "snippet": "🔥 503 урока, чтобы стать AI-инженером   В открытом доступе появился один из самых больших бесплатных курсов по AI Engineering.   Внутри:  🫡 20 этапов обучения; ",
+   "sources_in_export": [],
+   "referral_or_promo_links": [
+    "https://aiengineeringfromscratch.com/"
+   ],
+   "telegram_links": [
+    "https://t.me/IT_Portal",
+    "https://t.me/+_8QG__l66_UwYjUy"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "71",
+   "date": "12.10.2026",
+   "content_type": "promo_or_tips",
+   "snippet": "🤖 OpenAI почти вдвое увеличила контекст GPT-6.1 Sol: вырос с 272K до 500K токенов.   Теперь агент сможет дольше держать в голове код, файлы и историю работы без",
+   "sources_in_export": [],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/+_8QG__l66_UwYjUy"
+   ],
+   "web_verification": {
+    "status": "verified_web",
+    "note": "Контекст GPT-6.1 Sol 500K подтверждён",
+    "sources": [
+     "https://cryptobriefing.com/openai-gpt-6-1-sol-500k-context/"
+    ]
+   }
+  },
+  {
+   "post_id": "72",
+   "date": "12.10.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "🦀 МЕГАКУРС по Claude Code   Внутри Git, CLAUDE.md , skills, hooks, MCP, плагины, субагенты и автоматизация.  На продвинутом уровне учат запускать несколько Clau",
+   "sources_in_export": [
+    {
+     "url": "https://github.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know",
+     "domain": "github.com",
+     "kind": "official"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/+_8QG__l66_UwYjUy"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "73",
+   "date": "13.10.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "🏁 5 плагинов, чтобы сайт выглядел дорого    1. Frontend Design  Официальный скилл Anthropic: заставляет Claude сначала выбрать направление дизайна, подобрать ха",
+   "sources_in_export": [
+    {
+     "url": "https://github.com/anthropics/skills/tree/main/skills/frontend-design",
+     "domain": "github.com",
+     "kind": "official"
+    },
+    {
+     "url": "https://github.com/shadcn-ui/ui",
+     "domain": "github.com",
+     "kind": "official"
+    },
+    {
+     "url": "https://github.com/magicuidesign/magicui",
+     "domain": "github.com",
+     "kind": "official"
+    },
+    {
+     "url": "https://github.com/microsoft/playwright-mcp",
+     "domain": "github.com",
+     "kind": "official"
+    },
+    {
+     "url": "https://github.com/pbakaus/impeccable",
+     "domain": "github.com",
+     "kind": "official"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/+_8QG__l66_UwYjUy"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "74",
+   "date": "13.10.2026",
+   "content_type": "promo_or_tips",
+   "snippet": "Как же мы похожи 😂    Вайбкодер — подписаться             😁      18            💯      3            🔥      2            ❤      1            👍      1",
+   "sources_in_export": [],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/+_8QG__l66_UwYjUy"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "75",
+   "date": "14.10.2026",
+   "content_type": "no_source_in_export",
+   "snippet": "😨 Google выкатила свою ИМБУ — Gemini 4 Argon уже доступна всем   Новый флагман заточен под длинные и сложные задачи: кодинг, агентов, исследования и большие про",
+   "sources_in_export": [],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/+_8QG__l66_UwYjUy"
+   ],
+   "web_verification": {
+    "status": "partial_match",
+    "note": "Gemini 4 Argon вышла, но сначала ограниченно (кибер-защитники, Antigravity); «доступна всем» в посте не подтверждено",
+    "sources": [
+     "https://aiweekly.co/alerts/googles-gemini-4-argon-rolls-out-to-cyber-defenders-first",
+     "https://letsdatascience.com/news/google-expands-gemini-4-argon-access"
+    ]
+   }
+  },
+  {
+   "post_id": "76",
+   "date": "14.10.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "💬 Anthropic выпустила бесплатный гайд по автоматизациям на Claude   Агент может по расписанию читать Slack и GitHub, следить за изменениями и открытыми задачами",
+   "sources_in_export": [
+    {
+     "url": "https://claude.dev/blog/building-effective-agent-automations/",
+     "domain": "claude.dev",
+     "kind": "official"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/+_8QG__l66_UwYjUy"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "77",
+   "date": "15.10.2026",
+   "content_type": "promo_or_tips",
+   "snippet": "👍 Наконец-то можно увидеть, куда Claude сжирает все токены   Появился мод Turn Inspector, который показывает содержимое контекстного окна Claude после каждого х",
+   "sources_in_export": [],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/+_8QG__l66_UwYjUy"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "78",
+   "date": "15.10.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "Google разрешила выкатывать вайбкод-приложения прямо на Android 🐸   Теперь в Google AI Studio можно собрать приложение и запустить его через Google Play без рег",
+   "sources_in_export": [
+    {
+     "url": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/",
+     "domain": "techcrunch.com",
+     "kind": "press"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/+_8QG__l66_UwYjUy"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "79",
+   "date": "16.10.2026",
+   "content_type": "promo_or_tips",
+   "snippet": "Нейронкам общение с клиентами больше не поручаем   Вайбкодер — подписаться             🤣      42            😁      8            👍      5            🔥      2    ",
+   "sources_in_export": [],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/+_8QG__l66_UwYjUy"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "81",
+   "date": "16.10.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "🎉 Десктопный Claude Code стал намного удобнее для параллельной работы   Теперь можно запускать несколько сессий одновременно, изолировать их через Git worktree ",
+   "sources_in_export": [
+    {
+     "url": "https://code.claude.com/docs/en/desktop-quickstart",
+     "domain": "code.claude.com",
+     "kind": "official"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/+_8QG__l66_UwYjUy"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "84",
+   "date": "17.10.2026",
+   "content_type": "no_source_in_export",
+   "snippet": "🤖 Голосовой ChatGPT получил большой апдейт   В GPT-Live-1.1:  🫡 Новые голоса; 🫡 Более естественные акценты; 🫡 Меньше технических пауз; 🫡 Более плавные перебиван",
+   "sources_in_export": [],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/+_8QG__l66_UwYjUy"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "85",
+   "date": "17.10.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "🔥 Огромный гайд по Claude Code   В одном репозитории разобрали весь путь: установка, Skills, Hooks, Subagents, MCP, worktrees и Agent Teams.  Есть примеры и гот",
+   "sources_in_export": [
+    {
+     "url": "https://github.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know/tree/main",
+     "domain": "github.com",
+     "kind": "official"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/+_8QG__l66_UwYjUy"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "86",
+   "date": "18.10.2026",
+   "content_type": "promo_or_tips",
+   "snippet": "😨 БЕСПЛАТНЫЕ API к популярным нейронкам   На APInex собрали бесплатные варианты GPT, Claude, Gemini, DeepSeek, GLM и других моделей.  Всё подключается через еди",
+   "sources_in_export": [],
+   "referral_or_promo_links": [
+    "https://apinex.bond/models?group=free"
+   ],
+   "telegram_links": [
+    "https://t.me/+_8QG__l66_UwYjUy"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "87",
+   "date": "18.10.2026",
+   "content_type": "no_source_in_export",
+   "snippet": "🦀 Полезная команда Claude Code    /export file_name сохраняет текущую сессию в обычный файл.  Потом её можно отдать другому агенту как контекст, сохранить истор",
+   "sources_in_export": [],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/+_8QG__l66_UwYjUy"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "88",
+   "date": "19.10.2026",
+   "content_type": "promo_or_tips",
+   "snippet": "Приоритеты расставлены верно 😂    Вайбкодер — подписаться             😁      31            ❤      4            🔥      3            🤣      3            💯      1",
+   "sources_in_export": [],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/+_8QG__l66_UwYjUy"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "89",
+   "date": "19.10.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "🐳 Полный гайд по запуску DeepSeek локально на своём железе   В одном репозитории собрали всё необходимое: от запуска первой модели до настройки RAG, AI-агентов ",
+   "sources_in_export": [
+    {
+     "url": "https://github.com/justxor/deepseek-local-guide-ru",
+     "domain": "github.com",
+     "kind": "official"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/+_8QG__l66_UwYjUy"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "90",
+   "date": "20.10.2026",
+   "content_type": "promo_or_tips",
+   "snippet": "😱 Держите огромную библиотеку анимаций для Claude Code   На Prompt Motion собрали 200+ готовых видео, созданных с Claude Opus 5.5: от анимаций интерфейсов и гра",
+   "sources_in_export": [],
+   "referral_or_promo_links": [
+    "https://prompt-motion.com/"
+   ],
+   "telegram_links": [
+    "https://t.me/+_8QG__l66_UwYjUy"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "91",
+   "date": "20.10.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "🧹 OpenAI показала, как проводить рефакторинг кода через GPT-6   Пять инженеров использовали Codex для масштабной уборки: удалили 800 000+ строк мёртвого кода, з",
+   "sources_in_export": [
+    {
+     "url": "https://developers.openai.com/blog/maintaining-software-with-the-gpt-6-family",
+     "domain": "developers.openai.com",
+     "kind": "official"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/+_8QG__l66_UwYjUy"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "92",
+   "date": "21.10.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "💬 5 плагинов, после которых Claude Code пишет код как сеньор    Agent Skills   Набор навыков от Эдди Османи, инженера Google. Claude сам подключает нужный на ка",
+   "sources_in_export": [
+    {
+     "url": "https://github.com/addyosmani/agent-skills",
+     "domain": "github.com",
+     "kind": "official"
+    },
+    {
+     "url": "https://github.com/upstash/context7",
+     "domain": "github.com",
+     "kind": "official"
+    },
+    {
+     "url": "https://github.com/safishamsi/graphify",
+     "domain": "github.com",
+     "kind": "official"
+    },
+    {
+     "url": "https://github.com/21st-dev/magic-mcp",
+     "domain": "github.com",
+     "kind": "official"
+    },
+    {
+     "url": "https://github.com/usestrix/strix",
+     "domain": "github.com",
+     "kind": "official"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/+_8QG__l66_UwYjUy"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "93",
+   "date": "21.10.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "🤓 Осваиваем Claude Code по одному бесплатному курсу   Нашли гайд из 12 модулей, где разбирают всё: от первого запуска до Skills, Hooks, MCP, субагентов и автома",
+   "sources_in_export": [
+    {
+     "url": "https://github.com/justxor/claude-code-pro-course",
+     "domain": "github.com",
+     "kind": "official"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/+_8QG__l66_UwYjUy"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "94",
+   "date": "22.10.2026",
+   "content_type": "no_source_in_export",
+   "snippet": "🎉 Настраиваем Auto Mode в Claude Code одной командой   Вводите /auto-mode-setup и Claude изучает проект, недавние сессии и задаёт пару вопросов, чтобы предложит",
+   "sources_in_export": [],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/+_8QG__l66_UwYjUy"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "95",
+   "date": "22.10.2026",
+   "content_type": "promo_or_tips",
+   "snippet": "😨 ГИГАНТСКАЯ библиотека промптов для Claude Opus 5.5   Нашли клад , где больше 400 готовых примеров с играми, анимациями, 3D и интерактивными проектами.  К кажд",
+   "sources_in_export": [],
+   "referral_or_promo_links": [
+    "https://skillry.dev/ai-videos/opus-5-5"
+   ],
+   "telegram_links": [
+    "https://t.me/+_8QG__l66_UwYjUy"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "96",
+   "date": "23.10.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "💬 Anthropic выпустила конкурента OpenAI Dots — Claude Duet   Это автономный ИИ-агент, который работает в облаке даже без вашего участия: проверяет подключённые ",
+   "sources_in_export": [
+    {
+     "url": "https://claude.com/product/claude-duet",
+     "domain": "claude.com",
+     "kind": "official"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/+_8QG__l66_UwYjUy"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "97",
+   "date": "23.10.2026",
+   "content_type": "promo_or_tips",
+   "snippet": "1С-ники могут спать спокойно 😁    Вайбкодер — подписаться             😁      41            👍      5            🔥      3            😎      2            ❤      1",
+   "sources_in_export": [],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/+_8QG__l66_UwYjUy"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "98",
+   "date": "24.10.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "⚡ Китайцы представили мощнейшую Kimi K3.1 Pro     Новинка получила 3 трлн параметров и контекстное окно на 1 миллион токенов .  По тестам разработчиков, модель ",
+   "sources_in_export": [
+    {
+     "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+     "domain": "kimi.ai",
+     "kind": "official"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/+_8QG__l66_UwYjUy"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "99",
+   "date": "24.10.2026",
+   "content_type": "no_source_in_export",
+   "snippet": "🤖 В ChatGPT теперь можно прятать переписки под паролем   В сервис добавили защищённые переписки, которые исчезают из обычной истории и открываются только по PIN",
+   "sources_in_export": [],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/+_8QG__l66_UwYjUy"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "100",
+   "date": "25.10.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "😨 700+ бесплатных промптов для создания видео через Claude Opus 5   В репозитории собрали огромную библиотеку с моушн-графикой, 3D-анимациями, объясняющими роли",
+   "sources_in_export": [
+    {
+     "url": "https://github.com/yihui-dev/awesome-opus5-5-videos",
+     "domain": "github.com",
+     "kind": "official"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/+_8QG__l66_UwYjUy"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "102",
+   "date": "25.10.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "🤬 OpenAI начала БАНИТЬ пользователей за реверс-инжиниринг   Разработчик рассказал , что исследовал прошивку собственного Smart TV, после чего OpenAI заблокирова",
+   "sources_in_export": [
+    {
+     "url": "https://x.com/log4j/status/2113647464154857840?s=46",
+     "domain": "x.com",
+     "kind": "social_post"
+    },
+    {
+     "url": "https://x.com/0x0sojalsec/status/2113751276320399694?s=46",
+     "domain": "x.com",
+     "kind": "social_post"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/+_8QG__l66_UwYjUy"
+   ],
+   "web_verification": {
+    "status": "partial_match",
+    "note": "Пост утверждает, что OpenAI банит за реверс-инжиниринг; OpenAI (Roon) заявила, что запрета нет, часть блокировок ошибочная",
+    "sources": [
+     "https://cryptobriefing.com/openai-codex-reverse-engineering-no-ban/",
+     "https://www.gadgetreview.com/?p=423221"
+    ]
+   }
+  },
+  {
+   "post_id": "103",
+   "date": "26.10.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "👍 Генерим персональные мини-курсы через Claude   Инструмент изучает до 40 источников и создаёт 12 аудио-уроков по две минуты в формате диалога двух спикеров.  В",
+   "sources_in_export": [
+    {
+     "url": "https://github.com/assafkip/claudemy",
+     "domain": "github.com",
+     "kind": "official"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/+_8QG__l66_UwYjUy"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "104",
+   "date": "26.10.2026",
+   "content_type": "promo_or_tips",
+   "snippet": "🦀 Экономим токены Claude Code: вышел Ultra Config с пятью режимами работы     Мод позволяет переключаться между экономией токенов, быстрыми правками, максимальн",
+   "sources_in_export": [],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/+_8QG__l66_UwYjUy"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "105",
+   "date": "27.10.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "⚡ GPT-6.1 Terra вышла — OpenAI представила быстрого и дешёвого ИИ-агента   Что улучшили:   🫡 Управление приложениями, монтаж видео и создание 3D-моделей; 🫡 Сниж",
+   "sources_in_export": [
+    {
+     "url": "https://chatgpt.com/",
+     "domain": "chatgpt.com",
+     "kind": "official"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/+_8QG__l66_UwYjUy"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "106",
+   "date": "27.10.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "🔥 ТОПОВЫЙ н абор скиллов для создания крутых сайтов через Claude Code   Дизайнер выложил бесплатные скиллы, которые прокачивают ИИ-агентов в веб-дизайне.  Доста",
+   "sources_in_export": [
+    {
+     "url": "https://github.com/elayadesign/ai-design-skills",
+     "domain": "github.com",
+     "kind": "official"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/+_8QG__l66_UwYjUy"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "107",
+   "date": "28.10.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "💬 Anthropic выпустила гайд по оптимизации ИИ-агентов   В нём компания объяснила, как замена лишних субагентов одним ИИ сокращает расходы, задержки и потери конт",
+   "sources_in_export": [
+    {
+     "url": "https://claude.com/resources/articles/building-agents-when-to-fold-subagents-into-your-main-agent-loop",
+     "domain": "claude.com",
+     "kind": "official"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/+_8QG__l66_UwYjUy"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "108",
+   "date": "28.10.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "😎 Держите скилл от автора «Чистого кода» для прокачки ИИ-агентов   Роберт Мартин выпустил бесплатный скилл , который приучает нейросети писать тесты, избегать д",
+   "sources_in_export": [
+    {
+     "url": "https://github.com/unclebob/ub-mode",
+     "domain": "github.com",
+     "kind": "official"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/+_8QG__l66_UwYjUy"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "109",
+   "date": "29.10.2026",
+   "content_type": "promo_or_tips",
+   "snippet": "Японцы на шаг впереди 😁    Вайбкодер — подписаться             😁      30            👏      7            ❤      4            👍      3            💯      2",
+   "sources_in_export": [],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/+_8QG__l66_UwYjUy"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "110",
+   "date": "29.10.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "Потолок зарплаты в IT — ВСЁ   Даже Senior-разработчики упираются в потолок. Дальше — менеджмент, смена компании или годы ожидания повышения.   Но есть другой пу",
+   "sources_in_export": [
+    {
+     "url": "https://telegram.me/+84BFLy-kKm1jYzEy",
+     "domain": "telegram.me",
+     "kind": "official"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [],
+   "web_verification": null
+  },
+  {
+   "post_id": "111",
+   "date": "29.10.2026",
+   "content_type": "promo_or_tips",
+   "snippet": "🏋️ Спасаем аккаунт Claude от бана   В сети появилась теория, что Anthropic присваивает аккаунтам скрытый рейтинг риска. Действия пользователей якобы влияют на н",
+   "sources_in_export": [],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/+_8QG__l66_UwYjUy"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "112",
+   "date": "30.10.2026",
+   "content_type": "news_or_info_linked",
+   "snippet": "👍 Избавляемся от бездушного ИИ-дизайна   Нашли бесплатный скилл, который добавляет Claude Code, Codex и Cursor 50 готовых стилей, помогает создавать собственное",
+   "sources_in_export": [
+    {
+     "url": "https://github.com/nutlope/hallmark",
+     "domain": "github.com",
+     "kind": "official"
+    }
+   ],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/+_8QG__l66_UwYjUy"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "113",
+   "date": "30.10.2026",
+   "content_type": "promo_or_tips",
+   "snippet": "Claude начал банить россиян по паспорту   Anthropic массово просит пройти верификацию по документам. После российского загранпаспорта аккаунт блокируют практиче",
+   "sources_in_export": [],
+   "referral_or_promo_links": [
+    "https://catcode.dev/?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=seeding&amp;utm_content=vibeverif"
+   ],
+   "telegram_links": [],
+   "web_verification": {
+    "status": "partial_match",
+    "note": "Блокировки аккаунтов по российскому паспорту подтверждены (Meduza, Moscow Times, 29.10); в источниках речь о верификации по паспорту и селфи",
+    "sources": [
+     "https://meduza.io/en/feature/2026/10/29/claude-users-say-their-accounts-were-banned-after-verification-showed-a-russian-passport",
+     "https://ru.themoscowtimes.com/2026/10/29/claude-nachal-zaprashivat-urossiyan-pasporta-iblokirovat-akkaunti-a210018"
+    ]
+   }
+  },
+  {
+   "post_id": "114",
+   "date": "30.10.2026",
+   "content_type": "promo_or_tips",
+   "snippet": "🎉 Теперь можно увидеть все, что установлено в Claude Code   Нашли мод, который собирает скиллы, субагентов, MCP-серверы, плагины и настройки в единую интерактив",
+   "sources_in_export": [],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/+_8QG__l66_UwYjUy"
+   ],
+   "web_verification": null
+  },
+  {
+   "post_id": "116",
+   "date": "31.10.2026",
+   "content_type": "no_source_in_export",
+   "snippet": "👍 Создай бота поддержки для своего проекта в 2 клика!    Suppy — это удобнейший конструктор ботов обратной связи в Telegram.  Все диалоги разделены по веткам: б",
+   "sources_in_export": [],
+   "referral_or_promo_links": [],
+   "telegram_links": [
+    "https://t.me/suppyrobot?start=inv_7xstq6mg"
+   ],
+   "web_verification": null
+  }
+ ]
+}

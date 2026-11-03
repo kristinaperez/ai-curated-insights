@@ -1,0 +1,322 @@
+{
+  "competitor": "Интеллигенция (t.me/intelligentsia_ch)",
+  "type": "telegram_channel_ai_news_and_promo",
+  "analysed_on": "2026-11-03",
+  "export_source": "Telegram Desktop export (messages.html), 418 messages, 161 with text",
+  "summary": {
+    "posts_with_text": 161,
+    "news_with_export_sources": 68,
+    "promo_or_tips": 65,
+    "no_source_in_export": 28
+  },
+  "how_they_source_news": [
+    "Прямые ссылки на официальные анонсы компаний: anthropic.com, openai.com, x.ai, deepseek, Google blog",
+    "Посты сотрудников компаний в X (Тибо Соттио из OpenAI — основной источник про лимиты и сбросы)",
+    "Вторичные СМИ, которые не указаны в экспорте, но подтверждаются поиском: forklog, propakistani, pasqualepillitteri, neowin, iphonesoft",
+    "Значительная часть новостей идёт без источника (28 постов)",
+    "Часть постов — промо с реферальными ссылками, новости в них подаются как повод для регистрации"
+  ],
+  "top_domains_in_export": [
+    [
+      "x.com",
+      36
+    ],
+    [
+      "v0.app",
+      5
+    ],
+    [
+      "youtu.be",
+      4
+    ],
+    [
+      "apps.apple.com",
+      3
+    ],
+    [
+      "github.com",
+      3
+    ],
+    [
+      "anthropic.com",
+      2
+    ],
+    [
+      "notion.com",
+      2
+    ],
+    [
+      "openra.net",
+      2
+    ],
+    [
+      "anthropic.skilljar.com",
+      2
+    ],
+    [
+      "api-docs.deepseek.com",
+      2
+    ],
+    [
+      "zcode.z.ai",
+      2
+    ],
+    [
+      "mcp.vkusvill.ru",
+      2
+    ],
+    [
+      "slack.com",
+      1
+    ],
+    [
+      "capcut.en.uptodown.com",
+      1
+    ],
+    [
+      "byteplus.com",
+      1
+    ],
+    [
+      "news.ycombinator.com",
+      1
+    ],
+    [
+      "chatgpt.com",
+      1
+    ],
+    [
+      "linear.app",
+      1
+    ],
+    [
+      "app.clickup.com",
+      1
+    ],
+    [
+      "framer.com",
+      1
+    ],
+    [
+      "intelligentsiya.framer.website",
+      1
+    ],
+    [
+      "x.ai",
+      1
+    ],
+    [
+      "account.proton.me",
+      1
+    ],
+    [
+      "telegram.me",
+      1
+    ],
+    [
+      "telegram.dog",
+      1
+    ],
+    [
+      "app.notion.com",
+      1
+    ],
+    [
+      "switch-to-codex.openai.chatgpt.site",
+      1
+    ],
+    [
+      "academy.openai.com",
+      1
+    ],
+    [
+      "heygen.com",
+      1
+    ],
+    [
+      "investing.com",
+      1
+    ],
+    [
+      "ollama.com",
+      1
+    ],
+    [
+      "platform.deepseek.com",
+      1
+    ],
+    [
+      "openrouter.ai",
+      1
+    ],
+    [
+      "datacamp.com",
+      1
+    ],
+    [
+      "optima.datacamp.com",
+      1
+    ],
+    [
+      "habr.com",
+      1
+    ],
+    [
+      "opencode.ai",
+      1
+    ],
+    [
+      "threads.com",
+      1
+    ],
+    [
+      "rumble.com",
+      1
+    ],
+    [
+      "fal.ai",
+      1
+    ]
+  ],
+  "source_kinds": {
+    "other": 19,
+    "official": 44,
+    "social_post": 41,
+    "press": 1
+  },
+  "web_verified_news": [
+    {
+      "post_id": "8",
+      "date": "13.06.2026",
+      "status": "verified_web",
+      "snippet": "Кажется, большая политика окончательно добралась до нашего уютного цифрового пространства, причем в довольно грубой форме. Ладно когда Трамп щитками скамил люде",
+      "web_sources": [
+        "https://bleepingcomputer.com/news/security/us-gov-asks-anthropic-to-ban-foreign-national-access-to-fable-mythos/"
+      ],
+      "note": "Запрет использования Fable 5 за пределами США подтверждён; ссылка на anthropic.com уже есть в экспорте"
+    },
+    {
+      "post_id": "78",
+      "date": "09.07.2026",
+      "status": "partial_match",
+      "snippet": "Что вообще выпустили и че за разговоры  OpenAI выкатили новую линейку моделей   GPT-5.6. Их три: Sol самая умная (флагман), Terra золотая середина, для обычной ",
+      "web_sources": [
+        "https://www.neowin.net/amp/openai-to-release-gpt-56-sol-terra-and-luna-on-july-9/",
+        "https://vellum.ai/blog/gpt-5-6-sol-terra-luna-explained"
+      ],
+      "note": "Релиз GPT-5.6 Sol/Terra/Luna подтверждён прессой"
+    },
+    {
+      "post_id": "126",
+      "date": "30.07.2026",
+      "status": "partial_match",
+      "snippet": "Сэм Альтман забирает рынок бюджетных моделей   OpenAI только что релизнули пост , что они снижают цены на Луна и Терра, согласно твиту, после снижения цены на 8",
+      "web_sources": [
+        "https://propakistani.pk/2026/08/01/openai-cuts-gpt-5-6-luna-price-by-80-soon-after-launch/"
+      ],
+      "note": "Снижение цены Luna на 80%: источники есть, дата в источниках 1 августа, в посте 30 июля"
+    },
+    {
+      "post_id": "135",
+      "date": "06.08.2026",
+      "status": "verified_web",
+      "snippet": "Китайский ИИ стал слишком популярным?  Только мы успели порадоваться снижению цен на модели OpenAI, как DeepSeek объявил, что планирует значительно повысить сто",
+      "web_sources": [
+        "https://propakistani.pk/2026/08/15/deepseek-raises-prices-by-up-to-4x/",
+        "https://www.thestar.com.my/tech/tech-news/2026/08/13/deepseek-raises-api-pricing-for-its-v4-models"
+      ],
+      "note": "Повышение цен DeepSeek API подтверждено (до 4x, август 2026)"
+    },
+    {
+      "post_id": "169",
+      "date": "23.08.2026",
+      "status": "not_confirmed",
+      "snippet": "DeepSeek дали заднюю и снова меняет цены на API  по выходным весь день будут действовать сниженные тарифы.  DeepSeek объявила , что с 23 августа правила тарифик",
+      "web_sources": [],
+      "note": "Пост про выходные скидки DeepSeek с 23 августа не нашёлся; найдено повышение цен (см. #135)"
+    },
+    {
+      "post_id": "199",
+      "date": "01.09.2026",
+      "status": "verified_web",
+      "snippet": "Anthropic представила Claude Fable 5.1 и Mythos 5.1   Компания называет их новым уровнем для кодинга, научных исследований и длинных автономных задач: модель лу",
+      "web_sources": [
+        "https://forklog.com/en/news/anthropic-launches-claude-fable-5-1-and-claude-mythos-5-1",
+        "https://itdaily.com/blogs/software/anthropic-launches-claude-fable-5-dot-1-and-mythos-5-dot-1-cheaper-and-better/"
+      ],
+      "note": "Fable 5.1 и Mythos 5.1 подтверждены"
+    },
+    {
+      "post_id": "204",
+      "date": "03.09.2026",
+      "status": "not_found",
+      "snippet": "Легли все, кроме китайцев   Да это не только у вас, массовый сбой в работе популярных нейросетей, в том числе от компаний OpenAI и Anthropic.  Информации о прич",
+      "web_sources": [],
+      "note": "Сбой в работе нейросетей: подтверждения и источника не найдено"
+    },
+    {
+      "post_id": "219",
+      "date": "09.09.2026",
+      "status": "verified_web",
+      "snippet": "«ИИ может убить нас всех уже к концу этого десятилетия».   Несколько часов назад Джейкоб Коксон, очень крутой чувак и исследователь , занимавшийся обучением мод",
+      "web_sources": [
+        "https://www.theweek.in/news/sci-tech/2026/09/09/ai-could-kill-all-humans-anthropic-researcher-jacob-coxon-quits-colleague-evan-hubinger-agrees.amp.html",
+        "https://www.ibtimes.co.uk/ai-researcher-resigns-warns-superintelligence-threat-2030-1818808"
+      ],
+      "note": "Уход Джейкоба Коксона из Anthropic и открытое письмо подтверждены"
+    },
+    {
+      "post_id": "223",
+      "date": "14.09.2026",
+      "status": "partial_match",
+      "snippet": "ТРАМП НЕ ДАСТ ЗДРАВОМУ СМЫСЛУ ПОБЕДИТЬ 🔥  Дарио Амодеи, глава Anthropic: «Нужно замедлить развитие передовых ИИ-моделей».  Сэм Альтман, глава OpenAI: «Согласен ",
+      "web_sources": [
+        "https://aiweekly.co/alerts/amodei-urges-ai-slowdown-altman-and-musk-in-sacks-dissents",
+        "https://npr.org/2026/09/13/nx-s1-5968078/trump-mike-johnson-ai-slowdown"
+      ],
+      "note": "Призыв Амодеи замедлить ИИ, Альтман и Маск поддержали подтверждены; цитата Трампа в посте в источниках не найдена (там: Трамп преуменьшил риски)"
+    },
+    {
+      "post_id": "227",
+      "date": "15.09.2026",
+      "status": "verified_web",
+      "snippet": "ПОЛНОЦЕННАЯ СТУДИЯ ПО ГЕНЕРАЦИИ ВИДЕО - GOOGLE FLOW ТЕПЕРЬ НА IPHONE 🔥   9 сентября Google выпустила официальное приложение Flow для iPhone. Теперь можно генери",
+      "web_sources": [
+        "https://pasqualepillitteri.it/en/news/15501/google-flow-app-now-on-ios",
+        "https://iphonesoft.fr/2026/09/11/google-flow-disponible-iphone-creez-images-videos-ia"
+      ],
+      "note": "Выпуск Google Flow на iPhone подтверждён (сентябрь 2026)"
+    },
+    {
+      "post_id": "230",
+      "date": "16.09.2026",
+      "status": "partial_match",
+      "snippet": "OPENAI ОБЕЩАЮТ НАМ БОЛЬШУЮ НЕДЕЛЮ   Сэм Альтман написал , что уже на этой неделе нас ждёт большой релиз, а затем ещё несколько запусков к DevDay. Тибо Со́ттьо и",
+      "web_sources": [
+        "https://forklog.com/en/news/openai-unveils-dots-and-gpt-6-1-sol-at-devday",
+        "https://techenclave.com/news/items/openai-releases-gpt-6-1-sol-for-codex-chatgpt-work-and-the-api"
+      ],
+      "note": "Большая неделя релизов OpenAI подтверждена; в источниках модель называется GPT-6.1 Sol, а не GPT-6 Sol"
+    },
+    {
+      "post_id": "248",
+      "date": "23.09.2026",
+      "status": "partial_match",
+      "snippet": "Первые ощущения от GPT-6 Sol приятные : на Plus лимит будто расходуется в 3–4 раза медленнее, чем с GPT-5.6 Sol.  Точных замеров у меня пока нет, но раньше посл",
+      "web_sources": [
+        "https://techenclave.com/news/items/openai-releases-gpt-6-1-sol-for-codex-chatgpt-work-and-the-api"
+      ],
+      "note": "Название модели в посте (GPT-6 Sol) не совпадает с источниками (GPT-6.1 Sol)"
+    },
+    {
+      "post_id": "282",
+      "date": "07.10.2026",
+      "status": "verified_web",
+      "snippet": "Второй ресет за день   Празднуем новый максимум 40 млн активных пользователей Codex и ChatGPT Work. Всем платным пользователям добавляют сохранённый/banked ресе",
+      "web_sources": [
+        "https://runtimewire.com/article/openai-codex-chatgpt-work-40-million-users"
+      ],
+      "note": "40 млн активных пользователей Codex и ChatGPT Work подтверждены"
+    }
+  ]
+}
