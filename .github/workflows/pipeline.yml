@@ -15,8 +15,18 @@ jobs:
           node-version: '22'
       - run: npm install --no-audit --no-fund
       - run: npm test
+      # Состояние «уже отправлено» между запусками
+      - uses: actions/cache@v4
+        with:
+          path: state
+          key: seen-${{ github.run_id }}
+          restore-keys: seen-
       - run: npm start
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           OPENAI_MODEL: gpt-4o-mini
-          PUBLISH_ENABLED: 'false'
+          # Пока false: только превью в логе. Включить: переменная репозитория PUBLISH_ENABLED=true
+          PUBLISH_ENABLED: ${{ vars.PUBLISH_ENABLED || 'false' }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ vars.TELEGRAM_CHAT_ID }}
+          MAX_PER_RUN: '3'

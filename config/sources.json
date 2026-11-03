@@ -1,0 +1,28 @@
+{
+  "updated_at": "2026-11-04",
+  "note": "Без X (нет бесплатного API). Все feed-адреса помечены to_verify: при первом запуске в Actions неработающие фиды попадут в лог как FEED_ERROR и будут пропущены.",
+  "feeds": [
+    { "name": "Simon Willison", "url": "https://simonwillison.net/atom/everything/", "format": "atom", "status": "to_verify" },
+    { "name": "Hugging Face Blog", "url": "https://huggingface.co/blog/feed.xml", "format": "rss", "status": "to_verify" },
+    { "name": "OpenAI News", "url": "https://openai.com/news/rss.xml", "format": "rss", "status": "to_verify" },
+    { "name": "GitHub: anthropics/claude-code", "url": "https://github.com/anthropics/claude-code/releases.atom", "format": "atom", "status": "to_verify" },
+    { "name": "GitHub: remotion-dev/skills", "url": "https://github.com/remotion-dev/skills/releases.atom", "format": "atom", "status": "to_verify" },
+    { "name": "GitHub: blader/humanizer", "url": "https://github.com/blader/humanizer/releases.atom", "format": "atom", "status": "to_verify" },
+    { "name": "GitHub: pbakaus/impeccable", "url": "https://github.com/pbakaus/impeccable/releases.atom", "format": "atom", "status": "to_verify" },
+    { "name": "GitHub: emilkowalski/skills", "url": "https://github.com/emilkowalski/skills/releases.atom", "format": "atom", "status": "to_verify" }
+  ],
+  "sites_without_known_feed": [
+    "https://v0.app/blog",
+    "https://developers.openai.com/",
+    "https://www.anthropic.com/news",
+    "https://claude.com/blog",
+    "https://blog.google/",
+    "https://openrouter.ai/announcements",
+    "https://opencode.ai/",
+    "https://api-docs.deepseek.com/",
+    "https://zcode.z.ai/",
+    "https://notion.com/blog",
+    "https://arena.ai/blog",
+    "https://higgsfield.ai/blog"
+  ]
+}
